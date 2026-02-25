@@ -1,0 +1,78 @@
+======================================================================
+  RAPPORT D'AUDIT SÉMANTIQUE
+  Loi de Finances 2023-2024 vs 2024-2025 — Cameroun
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  MODÈLE : CAMEMBERT
+──────────────────────────────────────────────────────────────────────
+
+  Articles analysés (2023-2024)  : 244
+  Similarité moyenne             : 0.7956
+  Similarité médiane             : 0.7823
+
+  Répartition par statut :
+    ✅ STABLE          (≥ 0.9) :  40  (16.4%)
+    ⚠️  MODIFIÉ         (0.7–0.9) : 182  (74.6%)
+    ❌ TRÈS MODIFIÉ    (< 0.7) :  22  (9.0%)
+    🆕 NOUVEAU (2024)               : 214
+
+  Top articles les plus modifiés/nouveaux :
+    0.5555  Article TRENTE – SEPTIÈME.- Dispositions
+           → Article TRENTE – CINQUIÈME.- Disposition
+    0.6352  Article 19 bis – Les liens de dépendance
+           → Article TREIZIÈME – Sanction de la commu
+    0.6358  Article L 108 – Est également puni des p
+           → Article L 104 bis – (1) Une amende forfa
+    0.6461  Article QUATRE – VINGTIÈME.- La présente
+           → Article SOIXANTE – QUINZIÈME.- Au cours 
+    0.6572  Article VINGT – TROISIÈME. -Dispositions
+           → Article VINGT – UNIÈME.- Dispositions re
+    0.6586  Article L 8 bis – (1) Les facturations e
+           → Article L 6 – ter.- (1) Toute entreprise
+    0.6737  Article L 121 (nouveau) – (1) Le contrib
+           → Article SEIZIÈME – Prorogation des délai
+    0.6783  Article 128 – Sont exonérés de la Taxe s
+           → Article 128 – Sont exonérés de la Taxe s
+    0.6784  Article L 2 – (1) Toute personne physiqu
+           → Article L 86 ter – En cas d'usage fraudu
+    0.6796  Article QUATRE – VINGT-DEUXIÈME.- Les dé
+           → Article 149 – (1) ..................... 
+
+──────────────────────────────────────────────────────────────────────
+  MODÈLE : MINILM
+──────────────────────────────────────────────────────────────────────
+
+  Articles analysés (2023-2024)  : 244
+  Similarité moyenne             : 0.8224
+  Similarité médiane             : 0.8128
+
+  Répartition par statut :
+    ✅ STABLE          (≥ 0.9) :  56  (23.0%)
+    ⚠️  MODIFIÉ         (0.7–0.9) : 170  (69.7%)
+    ❌ TRÈS MODIFIÉ    (< 0.7) :  18  (7.4%)
+    🆕 NOUVEAU (2024)               : 195
+
+  Top articles les plus modifiés/nouveaux :
+    0.5644  Article 141 bis (nouveau) – Pour le cas 
+           → Article TRENTIÈME – Dispositions relativ
+    0.6048  Article TRENTE – DEUXIÈME..- Disposition
+           → Article VINGT – CINQUIÈME. - Modificatio
+    0.6126  Article DIX – HUITIÈME.- Réajustement de
+           → Article 69 – (1) Sous réserve des conven
+    0.6133  Article L145 – (1) Les remises ou modéra
+           → Article TREIZIÈME – Sanction de la commu
+    0.6243  Article 141 bis (nouveau) – Pour le cas 
+           → Article 116 (nouveau) – (1) Le régime fi
+    0.6276  Article VINGT – TROISIÈME. -Dispositions
+           → Article VINGT – DEUXIÈME.- Modification 
+    0.6282  Article TRENTE – SEPTIÈME.- Dispositions
+           → Article CINQUANTE – SEPTIÈME.-Le plafond
+    0.6383  Article L 8 bis – (1) Les facturations e
+           → Article TREIZIÈME – Sanction de la commu
+    0.6497  Article QUATRE – VINGT-NEUVIÈME.- Les or
+           → Article QUINZIÈME – Reconduction du prog
+    0.6595  Article CINQUIÈME – :Soutien aux secteur
+           → Article SOIXANTE – QUINZIÈME.- Au cours 
+
+======================================================================

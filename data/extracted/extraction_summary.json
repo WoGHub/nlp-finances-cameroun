@@ -1,0 +1,26 @@
+{
+  "loi_finances_2023_2024": {
+    "pages": 112,
+    "text_blocks": 7012,
+    "tables": 64,
+    "output": "C:\\ISE3\\NLP\\nlp-finances-cameroun\\data\\extracted\\loi_finances_2023_2024.json"
+  },
+  "loi_finances_2024_2025": {
+    "pages": 110,
+    "text_blocks": 6699,
+    "tables": 76,
+    "output": "C:\\ISE3\\NLP\\nlp-finances-cameroun\\data\\extracted\\loi_finances_2024_2025.json"
+  },
+  "bip": {
+    "pages": 52,
+    "text_blocks": 2397,
+    "tables": 10,
+    "output": "C:\\ISE3\\NLP\\nlp-finances-cameroun\\data\\extracted\\bip.json"
+  },
+  "snd30": {
+    "pages": 231,
+    "text_blocks": 21011,
+    "tables": 73,
+    "output": "C:\\ISE3\\NLP\\nlp-finances-cameroun\\data\\extracted\\snd30.json"
+  }
+}

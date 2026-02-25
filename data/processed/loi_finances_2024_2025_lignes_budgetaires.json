@@ -1,0 +1,352 @@
+[
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "Pirogues à pagaie 0-5 tonneaux de jauge brute ( droit fixe)",
+    "texte": "Pirogues à pagaie 0-5 tonneaux de jauge brute ( droit fixe)",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 48,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "Pirogues à moteur et embarcations 0-20 tonneaux de jauge\nbrute {d roit fixe)",
+    "texte": "Pirogues à moteur et embarcations 0-20 tonneaux de jauge\nbrute {d roit fixe)",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 48,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "Pirogues à moteur et embarcations 21-30 tonneaux de jauge\nbrute ( droit fixe)",
+    "texte": "Pirogues à moteur et embarcations 21-30 tonneaux de jauge\nbrute ( droit fixe)",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 48,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "Navire ou engins d'une jauge brute inférieure à 50 tonneaux de\njauge brute ( droit fixe)",
+    "texte": "Navire ou engins d'une jauge brute inférieure à 50 tonneaux de\njauge brute ( droit fixe)",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 48,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "Navire ou engins d'une jauge brute à 50 tonneaux de jauge\nbrute mais inférieure à 100 tonneaux (droit fixe)",
+    "texte": "Navire ou engins d'une jauge brute à 50 tonneaux de jauge\nbrute mais inférieure à 100 tonneaux (droit fixe)",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 48,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "Navire ou engins d'une jauge brute égale supérieure à 100\ntonneaux ( droit fixe)",
+    "texte": "Navire ou engins d'une jauge brute égale supérieure à 100\ntonneaux ( droit fixe)",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 48,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "A-RECETTES\nTITREI - RECETTESFI SCALSE",
+    "texte": "A-RECETTES\nTITREI - RECETTESFI SCALSE",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "IMPOTS SUR LES REVENUS, LES\nBENEFICES ET LES GAINS EN CAPITAL",
+    "texte": "IMPOTS SUR LES REVENUS, LES\nBENEFICES ET LES GAINS EN CAPITAL",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "IMPOTS SUR LES SALAIRES VERSES ET\nAUTRES REMUNERATIONS",
+    "texte": "IMPOTS SUR LES SALAIRES VERSES ET\nAUTRES REMUNERATIONS",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "IMPOTS SUR LE PATRIMOINE",
+    "texte": "IMPOTS SUR LE PATRIMOINE",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "IMPOTS ET TAXES INTERIEURS SUR LES\nBIENS ET SERVICES",
+    "texte": "IMPOTS ET TAXES INTERIEURS SUR LES\nBIENS ET SERVICES",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "IMPOTS SUR LE COMMERCE EXTERIEUR ET\nLES TRANSACTIONS INTERNATIONALES",
+    "texte": "IMPOTS SUR LE COMMERCE EXTERIEUR ET\nLES TRANSACTIONS INTERNATIONALES",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "AUTRES TAXES ET IMPÔTS SUR LES BIENS\nET SERVICES",
+    "texte": "AUTRES TAXES ET IMPÔTS SUR LES BIENS\nET SERVICES",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "r\nAUTRES RECETTES FISCALES",
+    "texte": "r\nAUTRES RECETTES FISCALES",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "p\nTITREI -lD ONSF,O NDDSE C ONCORUSE T\nLEGS",
+    "texte": "p\nTITREI -lD ONSF,O NDDSE C ONCORUSE T\nLEGS",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "DONS DES INSTITUTIONS\nINTERNATIONALES",
+    "texte": "DONS DES INSTITUTIONS\nINTERNATIONALES",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": ".\nDONS DES ADMINISTRATIONS PUBLIQUES\nETRANGERES",
+    "texte": ".\nDONS DES ADMINISTRATIONS PUBLIQUES\nETRANGERES",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "w\nTITREI l- ClO TISATIONSS OCILAES",
+    "texte": "w\nTITREI l- ClO TISATIONSS OCILAES",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 68,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": ".\n1\nLIBELLE\n60 723 000\nCHAPITRE 01 - PRESIDENCE DE LA REPUBLIQUE",
+    "libelle": ".\n1\nLIBELLE\n60 723 000\nCHAPITRE 01 - PRESIDENCE DE LA REPUBLIQUE",
+    "texte": ".\n1\nLIBELLE\n60 723 000\nCHAPITRE 01 - PRESIDENCE DE LA REPUBLIQUE",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 82,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": "w\nTaux de réalisation\nContribuer à l'atteinte\nFORMULATION ET des actions\n168 COORDINATION wDEL' ACTION des objectifs visés par approuvées par le 23 690 610\nle progrnmme des\nPRÉSIDENTIELLE Président de la\ngrandes réalisations\nRépublique\nNiveau global\nPROTECTION Préserver l'intégrité du\nd'atteinte des\n169 PRÉSIDENTIELLE ET territoire national el la 8118 493\nobjectifs assignés\nINTÉGRITÉ DU TERRITOIRE stabilité politique\naux missions",
+    "libelle": "w\nTaux de réalisation\nContribuer à l'atteinte\nFORMULATION ET des actions\n168 COORDINATION wDEL' ACTION des objectifs visés par approuvées par le 23 690 610\nle progrnmme des\nPRÉSIDENTIELLE Président de la\ngrandes réalisations\nRépublique\nNiveau global\nPROTECTION Préserver l'intégrité du\nd'atteinte des\n169 PRÉSIDENTIELLE ET territoire national el la 8118 493\nobjectifs assignés\nINTÉGRITÉ DU TERRITOIRE stabilité politique\naux missions",
+    "texte": "w\nTaux de réalisation\nContribuer à l'atteinte\nFORMULATION ET des actions\n168 COORDINATION wDEL' ACTION des objectifs visés par approuvées par le 23 690 610\nle progrnmme des\nPRÉSIDENTIELLE Président de la\ngrandes réalisations\nRépublique\nNiveau global\nPROTECTION Préserver l'intégrité du\nd'atteinte des\n169 PRÉSIDENTIELLE ET territoire national el la 8118 493\nobjectifs assignés\nINTÉGRITÉ DU TERRITOIRE stabilité politique\naux missions",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 82,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": "w\nGOUVERNANCE ET APPUI Améliorer la\nINSTITUTIONNEL DE LA coordination des Taux global de\n170 PRÉSIDENCE DE LA services et assurer la réalisation des 28 913 897\nRÉPUBLIQUE ET SES bonne mise en œuvre · activités budgétisées\nSERVICES RATTACHÉS des programmes",
+    "libelle": "w\nGOUVERNANCE ET APPUI Améliorer la\nINSTITUTIONNEL DE LA coordination des Taux global de\n170 PRÉSIDENCE DE LA services et assurer la réalisation des 28 913 897\nRÉPUBLIQUE ET SES bonne mise en œuvre · activités budgétisées\nSERVICES RATTACHÉS des programmes",
+    "texte": "w\nGOUVERNANCE ET APPUI Améliorer la\nINSTITUTIONNEL DE LA coordination des Taux global de\n170 PRÉSIDENCE DE LA services et assurer la réalisation des 28 913 897\nRÉPUBLIQUE ET SES bonne mise en œuvre · activités budgétisées\nSERVICES RATTACHÉS des programmes",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 82,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": "1\n11 829 000\nCHAPITRE 02 - SERVICES RATTACHES A LA PRESIDENCE",
+    "libelle": "1\n11 829 000\nCHAPITRE 02 - SERVICES RATTACHES A LA PRESIDENCE",
+    "texte": "1\n11 829 000\nCHAPITRE 02 - SERVICES RATTACHES A LA PRESIDENCE",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 82,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": "Taux de réalisation\nContribuer à l'atteinte\nFORMULATION ET des actions\ndes objectifs visés par\n171 COORDINATION DEL' ACTION approuvées par le 1 322 728\nle programme des\nPRÉSIDENTIELLE Président de la\ngrandes réalisations\nRépublique",
+    "libelle": "Taux de réalisation\nContribuer à l'atteinte\nFORMULATION ET des actions\ndes objectifs visés par\n171 COORDINATION DEL' ACTION approuvées par le 1 322 728\nle programme des\nPRÉSIDENTIELLE Président de la\ngrandes réalisations\nRépublique",
+    "texte": "Taux de réalisation\nContribuer à l'atteinte\nFORMULATION ET des actions\ndes objectifs visés par\n171 COORDINATION DEL' ACTION approuvées par le 1 322 728\nle programme des\nPRÉSIDENTIELLE Président de la\ngrandes réalisations\nRépublique",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 82,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": "Contribuer à la\nNiveau global\nPROTECTION préservation de\nd'atteinte des\n172 PRÉSIDENTIELLE ET l'intégrité du territoire 10 506 272\nobjectifs assignés\nINTÉGRITÉ DU TERRITOIRE national et la stabilité\naux missions\npolitique",
+    "libelle": "Contribuer à la\nNiveau global\nPROTECTION préservation de\nd'atteinte des\n172 PRÉSIDENTIELLE ET l'intégrité du territoire 10 506 272\nobjectifs assignés\nINTÉGRITÉ DU TERRITOIRE national et la stabilité\naux missions\npolitique",
+    "texte": "Contribuer à la\nNiveau global\nPROTECTION préservation de\nd'atteinte des\n172 PRÉSIDENTIELLE ET l'intégrité du territoire 10 506 272\nobjectifs assignés\nINTÉGRITÉ DU TERRITOIRE national et la stabilité\naux missions\npolitique",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 82,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "CONTROLE EXTERNE DE\nL'EXECUTION DES MARCHES\nPUBLICS",
+    "texte": "CONTROLE EXTERNE DE\nL'EXECUTION DES MARCHES\nPUBLICS",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 86,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "GOUVERNANCE ET APPUI\nINSTITUTIONNEL DANS LE\nSOUS-SECTEUR DES\nMARCHES PUBLICS",
+    "texte": "GOUVERNANCE ET APPUI\nINSTITUTIONNEL DANS LE\nSOUS-SECTEUR DES\nMARCHES PUBLICS",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 86,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "RENFORCEMENT DE LA\nPREVENTION DES ATTEINTES\nA LA FORTUNE PUBLIQUE",
+    "texte": "RENFORCEMENT DE LA\nPREVENTION DES ATTEINTES\nA LA FORTUNE PUBLIQUE",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 86,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "AUDITS, CONTRÔLE ET\nSANCTIONS",
+    "texte": "AUDITS, CONTRÔLE ET\nSANCTIONS",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 86,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "GOUVERNANCE ET APPUI\nINSTITUTIONNEL DES\nSERVICES DU CONTRÔLE\nSUPERIEUR DE L'ETAT",
+    "texte": "GOUVERNANCE ET APPUI\nINSTITUTIONNEL DES\nSERVICES DU CONTRÔLE\nSUPERIEUR DE L'ETAT",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 86,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "w\nNATIONALE\nAccroître la protection\ndes institutions, des Taux de couverture\nCONSOLIDATION DE LA\nlibertés publiques, des sécurttaire du\nSÉCURITÉ PUBLIQUE\npersonnes et des territoire national\nbiens",
+    "texte": "w\nNATIONALE\nAccroître la protection\ndes institutions, des Taux de couverture\nCONSOLIDATION DE LA\nlibertés publiques, des sécurttaire du\nSÉCURITÉ PUBLIQUE\npersonnes et des territoire national\nbiens",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 86,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "w\nProportion d'actes\ncriminels et\nRENFORCEMENT DE LA Accroitre la sécurité\nd'infractions\nSÉCURITÉ FRONTALIÈRE des frontières\ntransfrontaliers\nmaîtrisés",
+    "texte": "w\nProportion d'actes\ncriminels et\nRENFORCEMENT DE LA Accroitre la sécurité\nd'infractions\nSÉCURITÉ FRONTALIÈRE des frontières\ntransfrontaliers\nmaîtrisés",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 86,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "CHAPITRE 28 -",
+    "texte": "CHAPITRE 28 -",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 93,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "DEVELOPPEMENT DURABL\nRéduire la\nvulnérabilité des\nactivités de\ndéveloppement des\nCHANGEMENTS CLIMATIQUES,\npopulations aux effets\n89 002 DESERTIFICATION ET\nnéfastes des\nSECHERESSE\nchangements\nclimatiques, de la\ndésertification et la\nsécheresse",
+    "texte": "DEVELOPPEMENT DURABL\nRéduire la\nvulnérabilité des\nactivités de\ndéveloppement des\nCHANGEMENTS CLIMATIQUES,\npopulations aux effets\n89 002 DESERTIFICATION ET\nnéfastes des\nSECHERESSE\nchangements\nclimatiques, de la\ndésertification et la\nsécheresse | E\n1.Niveau d'adaptation\net de résilience des\nsecteurs de\ndéveloppement aux\nchangements\nclimatiques 5 647 000\n2.Taux des terres\nrestaurés dans la\nzone d'intervention\nprioritaire n° 1",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 93,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "SOUTIEN ET DEVELOPPEMENT DES ACTIVITES DE TOURISME ET",
+    "texte": "SOUTIEN ET DEVELOPPEMENT DES ACTIVITES DE TOURISME ET",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 109,
+    "source": "loi_finances_2024_2025"
+  },
+  {
+    "type": "ligne_budgetaire",
+    "code": null,
+    "libelle": "DE LOISIRS\n014 1 PROMOTION DU TOURISME ET DES LOISIRS",
+    "texte": "DE LOISIRS\n014 1 PROMOTION DU TOURISME ET DES LOISIRS",
+    "montant_cp": null,
+    "montant_ae": null,
+    "page": 109,
+    "source": "loi_finances_2024_2025"
+  }
+]
