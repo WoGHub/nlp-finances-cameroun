@@ -1,0 +1,20 @@
+# Données sensibles et lourdes
+data/raw/
+models/
+
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
