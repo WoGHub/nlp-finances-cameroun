@@ -1,0 +1,66 @@
+======================================================================
+  RAPPORT CLASSIFICATION ZERO-SHOT SND30
+  Loi de Finances 2024-2025 — Cameroun
+======================================================================
+
+  Programmes classifiés   : 182
+  Dont fiables            : 163 (89.6%)
+  Total CP                : 7,251 milliards FCFA
+
+  Répartition CP par pilier SND30 :
+    Gouvernance                         :      4,075 Mrd  (56.2%)  [78 programmes]
+    Transformation Structurelle         :      1,392 Mrd  (19.2%)  [34 programmes]
+    Capital Humain                      :      1,070 Mrd  (14.8%)  [29 programmes]
+    Développement Régional              :        714 Mrd  (9.8%)  [41 programmes]
+
+  Top 5 programmes CP par pilier :
+
+  ── Transformation Structurelle ──
+           376 M  [125] CONSTRUCTION DES ROUTES ET AUTRES INFRASTRUCTURES
+               Score=0.590  Écart=0.004
+           202 M  [016] OFFRE D'ENERGIE
+               Score=0.567  Écart=0.239
+           200 M  [126] REHABILITATION, MAINTENANCE ET ENTRETIEN DES ROUTE
+               Score=0.513  Écart=0.049
+           146 M  [137] ACCES A L'ENERGIE
+               Score=0.511  Écart=0.190
+            82 M  [139] GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS-S
+               Score=0.616  Écart=0.100
+
+  ── Capital Humain ──
+           285 M  [106] AMELIORATION DE LA QUALITE DE L'EDUCATION ET DE LA
+               Score=0.661  Écart=0.401
+           234 M  [102] UNIVERSALISATION DU CYCLE PRIMAIRE
+               Score=0.529  Écart=0.260
+           134 M  [105] RENFORCEMENT DE L'ACCES AUX ENSEIGNEMENTS SECONDAI
+               Score=0.609  Écart=0.234
+           112 M  [112] INTENSIFICATION DE LA PROFESSIONNALISATION ET OPTI
+               Score=0.667  Écart=0.365
+            58 M  [045] PREVENTION DE LA MALADIE
+               Score=0.135  Écart=0.016
+
+  ── Gouvernance ──
+         1,124 M  [203] REMBOURSEMENT DE LA DETTE PUBLIQUE INTERIEURE
+               Score=0.668  Écart=0.167
+           941 M  [199] REMBOURSEMENT DE LA DETTE PUBLIQUE EXTERIEURE
+               Score=0.677  Écart=0.246
+           270 M  [200] PENSIONS
+               Score=0.436  Écart=0.108
+           219 M  [201] DEPENSES COMMUNES DE FONCTIONNEMENT
+               Score=0.563  Écart=0.166
+           176 M  [202] SUBVENTIONS ET CONTRIBUTIONS
+               Score=0.533  Écart=0.003
+
+  ── Développement Régional ──
+           130 M  [047] RENFORCEMENT DU SYSTEME DE SANTE
+               Score=0.503  Écart=0.086
+           103 M  [111] DEVELOPPEMENT DES INFRASTRUCTURES DE TRANSPORT URB
+               Score=0.525  Écart=0.013
+            92 M  [100] PROMOTION DU DEVELOPPEMENT LOCAL
+               Score=0.650  Écart=0.112
+            58 M  [019] PLANIFICATION STRATEGIQUE ET AMENAGEMENT DURABLE D
+               Score=0.706  Écart=0.192
+            45 M  [108] DEVELOPPEMENT DE L'HABITAT
+               Score=0.635  Écart=0.289
+
+======================================================================

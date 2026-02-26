@@ -1,0 +1,76 @@
+======================================================================
+  RAPPORT — ANALYSE STATISTIQUE DE CONFORMITÉ SND30
+  Loi de Finances 2024-2025 — Cameroun
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  BUDGET TOTAL (182 programmes)
+──────────────────────────────────────────────────────────────────────
+
+  Fréquence vs CP par pilier :
+  Pilier                                Freq%     CP%   Écart
+  --------------------------------------------------------
+  Transformation Structurelle            18.7    19.2    +0.5
+  Capital Humain                         15.9    14.8    -1.2
+  Gouvernance                            42.9    56.2   +13.3
+  Développement Régional                 22.5     9.8   -12.7
+
+  Corrélation de Spearman :
+    ρ = 0.4000   p-value = 0.6000
+    ❌ Non significatif (p ≥ 0.05)
+    → Corrélation modérée → alignement partiel
+
+  Test Chi-2 (distribution programmes) :
+    χ² = 32.5495   p-value = 0.0000
+    ✅ Distribution non uniforme
+
+  Test Chi-2 (distribution CP) :
+    χ² = 3891316363.8857   p-value = 0.0000
+    ✅ Distribution CP non uniforme
+
+──────────────────────────────────────────────────────────────────────
+  BUDGET DISCRÉTIONNAIRE (hors incompressibles)
+──────────────────────────────────────────────────────────────────────
+
+  Fréquence vs CP par pilier :
+  Pilier                                Freq%     CP%   Écart
+  --------------------------------------------------------
+  Transformation Structurelle            19.6    31.6   +12.0
+  Capital Humain                         16.8    24.3    +7.6
+  Gouvernance                            40.5    27.9   -12.6
+  Développement Régional                 23.1    16.1    -7.0
+
+  Corrélation de Spearman :
+    ρ = 0.0000   p-value = 1.0000
+    ❌ Non significatif (p ≥ 0.05)
+    → Pas de corrélation → désalignement discours/budget
+
+  Test Chi-2 (distribution programmes) :
+    χ² = 23.4624   p-value = 0.0000
+    ✅ Distribution non uniforme
+
+  Test Chi-2 (distribution CP) :
+    χ² = 232101728.6595   p-value = 0.0000
+    ✅ Distribution CP non uniforme
+
+──────────────────────────────────────────────────────────────────────
+  CLUSTERING K-MEANS (k=4)
+──────────────────────────────────────────────────────────────────────
+  Cluster 0 (52 programmes) — dominant : Gouvernance
+    CP moyen : 14 M FCFA  |  Score moyen : 0.618
+  Cluster 1 (26 programmes) — dominant : Développement Régional
+    CP moyen : 10 M FCFA  |  Score moyen : 0.353
+  Cluster 2 (9 programmes) — dominant : Transformation Structurelle
+    CP moyen : 209 M FCFA  |  Score moyen : 0.572
+  Cluster 3 (86 programmes) — dominant : Gouvernance
+    CP moyen : 18 M FCFA  |  Score moyen : 0.537
+
+──────────────────────────────────────────────────────────────────────
+  CLUSTERING HDBSCAN
+──────────────────────────────────────────────────────────────────────
+  2 clusters détectés  |  52 outliers
+  Outliers (52 programmes) — CP moyen : 67 M FCFA
+  Cluster 0 (7 programmes) — CP moyen : 2 M FCFA
+  Cluster 1 (114 programmes) — CP moyen : 8 M FCFA
+
+======================================================================

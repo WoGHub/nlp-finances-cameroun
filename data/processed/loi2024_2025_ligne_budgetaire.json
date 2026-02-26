@@ -1,0 +1,2118 @@
+{
+  "credits_du_budget_general": [
+    {
+      "chapitre": "CHAPITRE 01",
+      "libelle_chapitre": "PRESIDENCE DE LA REPUBLIQUE",
+      "ae": "60 723 000",
+      "cp": "60 723 000",
+      "programmes": [
+        {
+          "n": "1",
+          "code": "168",
+          "libelle": "FORMULATION ET COORDINATION DE L' ACTION PRÉSIDENTIELLE",
+          "objectif": "Contribuer à l'atteinte des objectifs visés par le programme des grandes réalisations",
+          "indicateur": "Taux de réalisation des actions approuvées par le Président de la République",
+          "ae": "23 690 610",
+          "cp": "23 690 610"
+        },
+        {
+          "n": "2",
+          "code": "169",
+          "libelle": "PROTECTION PRÉSIDENTIELLE ET INTÉGRITÉ DU TERRITOIRE",
+          "objectif": "Préserver l'intégrité du territoire national et la stabilité politique",
+          "indicateur": "Niveau global d'atteinte des objectifs assignés aux missions",
+          "ae": "8 118 493",
+          "cp": "8 118 493"
+        },
+        {
+          "n": "3",
+          "code": "170",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DE LA PRÉSIDENCE DE LA RÉPUBLIQUE ET SES SERVICES RATTACHÉS",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes",
+          "indicateur": "Taux global de réalisation des activités budgétisées",
+          "ae": "28 913 897",
+          "cp": "28 913 897"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 02",
+      "libelle_chapitre": "SERVICES RATTACHES A LA PRESIDENCE",
+      "ae": "11 829 000",
+      "cp": "11 829 000",
+      "programmes": [
+        {
+          "n": "4",
+          "code": "171",
+          "libelle": "FORMULATION ET COORDINATION DE L' ACTION PRÉSIDENTIELLE",
+          "objectif": "Contribuer à l'atteinte des objectifs visés par le programme des grandes réalisations",
+          "indicateur": "Taux de réalisation des actions approuvées par le Président de la République",
+          "ae": "1 322 728",
+          "cp": "1 322 728"
+        },
+        {
+          "n": "5",
+          "code": "172",
+          "libelle": "PROTECTION PRÉSIDENTIELLE ET INTÉGRITÉ DU TERRITOIRE",
+          "objectif": "Contribuer à la préservation de l'intégrité du territoire national et la stabilité politique",
+          "indicateur": "Niveau global d'atteinte des objectifs assignés aux missions",
+          "ae": "10 506 272",
+          "cp": "10 506 272"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 03",
+      "libelle_chapitre": "ASSEMBLEE NATIONALE",
+      "ae": "24 622 000",
+      "cp": "24 622 000",
+      "programmes": [
+        {
+          "n": "6",
+          "code": "174",
+          "libelle": "RENFORCEMENT DU CONTRÔLE PARLEMENTAIRE DE L'ACTION GOUVERNEMENTALE",
+          "objectif": "contribuer à l'effectivité des services Publics",
+          "indicateur": "Taux de contrôle du programme d'investissement prioritaire du Gouvernement",
+          "ae": "6 140 000",
+          "cp": "6 140 000"
+        },
+        {
+          "n": "7",
+          "code": "175",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DES SERVICES DE L'ASSEMBLÉE NATIONALE",
+          "objectif": "Renforcer le cadre législatif national",
+          "indicateur": "Taux de contribution de l'AN au renforcement du cadre législatif national",
+          "ae": "18 482 000",
+          "cp": "18 482 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 04",
+      "libelle_chapitre": "SERVICES DU PREMIER MINISTRE",
+      "ae": "24 395 111",
+      "cp": "27 389 000",
+      "programmes": [
+        {
+          "n": "8",
+          "code": "010",
+          "libelle": "DIRECTION ET COORDINATION DE L'ACTION GOUVERNEMENTALE",
+          "objectif": "Veiller à l'amélioration de la gouvernance administrative, économique et financière des politiques publiques, en vue de garantir la transformation structurelle de l'économie, le développement du capital humain et du bien-être, et la promotion de l'emploi et de l'insertion économique, en cohérence avec la SND30.",
+          "indicateur": "Taux de responsivité dans les délais;",
+          "ae": "5 128 380",
+          "cp": "5 128 380"
+        },
+        {
+          "n": "9",
+          "code": "011",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DES SERVICES INTERNES ET RATTACHES AUX SERVICES DU PREMIER MINISTRE",
+          "objectif": "Améliorer la coordination opérationnelle des services et assurer la bonne mise en œuvre des programmes dans les SPM",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein des SPM",
+          "ae": "15 249 689",
+          "cp": "18 243 578"
+        },
+        {
+          "n": "10",
+          "code": "204",
+          "libelle": "COORDINATION STRATEGIQUE ET POLITIQUE",
+          "objectif": "Optimiser la coordination stratégique et politique de l'action gouvernementale",
+          "indicateur": "Proportion des évènements supervisés par le Premier Ministre concourant au rayonnement économique par rapport à l'ensemble des évènements concourant au rayonnement économique",
+          "ae": "4 017 042",
+          "cp": "4 017 042"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 05",
+      "libelle_chapitre": "CONSEIL ECONOMIQUE ET SOCIAL",
+      "ae": "1 391 000",
+      "cp": "2 191 000",
+      "programmes": [
+        {
+          "n": "11",
+          "code": "095",
+          "libelle": "CONSEIL DE L'EXÉCUTIF EN MATIÈRE ÉCONOMIQUE, SOCIALE, CULTURELLE ET ENVIRONNEMENTALE",
+          "objectif": "Renforcer la participation des différentes catégories socioprofessionnelles à l'élaboration et à la mise en œuvre des politiques publiques",
+          "indicateur": "Nombre d'avis émis par le CES",
+          "ae": "80 000",
+          "cp": "80 000"
+        },
+        {
+          "n": "12",
+          "code": "096",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU CONSEIL ÉCONOMIQUE ET SOCIAL",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du CES",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du CES",
+          "ae": "1 311 000",
+          "cp": "2 111 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 06",
+      "libelle_chapitre": "MINISTERE DES RELATIONS EXTERIEURES",
+      "ae": "48 139 000",
+      "cp": "48 139 000",
+      "programmes": [
+        {
+          "n": "13",
+          "code": "087",
+          "libelle": "RENFORCEMENT DU POTENTIEL DES RELATIONS BILATÉRALES",
+          "objectif": "capitaliser au bénéfice du Cameroun les retombées qu'offrent les relations bilatérales en vue de son émergence diplomatique",
+          "indicateur": "1.Nombre d'instruments juridiques de coopération bilatérale en cours de négociation 2.Nombre d'instruments juridiques de coopération bilatérale signés ou ratifiés 3.Nombre de partenaires mobilisés et de projets initiés ou réalisés",
+          "ae": "23 884 074",
+          "cp": "23 884 074"
+        },
+        {
+          "n": "14",
+          "code": "088",
+          "libelle": "NEGOCIATION, COORDINATION ET SUIVI DE LA COOPERATION MULTILATERALE, DECENTRALISEE, NON GOUVERNENMENTALE ET DES PROGRAMMES SUBSEQUENTS",
+          "objectif": "Diversifier et accroitre les opportunités de la coopération multilatérale, décentralisée et non gouvernementale pour le développement du Cameroun",
+          "indicateur": "1.Nombre d'accords, projets, programmes et mécanismes obtenus et mis en œuvre grâce à la coopération multilatérale, décentralisée et non gouvernementale 2.Nombre de projets et programmes obtenus et/ou mis en œuvre par le MINREX au profit du Cameroun dans le cadre de la coopération multilatérale, décentralisée et non gouvernementale",
+          "ae": "4 470 284",
+          "cp": "4 470 284"
+        },
+        {
+          "n": "15",
+          "code": "089",
+          "libelle": "GESTION DE LA DIASPORA, DES MIGRANTS ET DES CRISES NOUVELLES",
+          "objectif": "Accroitre la participation des Camerounais à l'étranger au développement du Cameroun et contribuer à la gestion des crises nouvelles",
+          "indicateur": "1.Nombre de migrants retournés et réinsérés 2.Nombre annuel de projets et/ou d'initiatives des Camerounais à l'étranger accompagnés 3.Nombre de mécanismes effectifs de gestion des questions migratoires auxquels le Cameroun est partie",
+          "ae": "6 146 882",
+          "cp": "6 146 882"
+        },
+        {
+          "n": "16",
+          "code": "090",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS-SECTEUR DES RELATIONS EXTERIEURES",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes au MINREX",
+          "indicateur": "Taux de réalisation des activités budgétisées",
+          "ae": "13 637 759",
+          "cp": "13 637 759"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 07",
+      "libelle_chapitre": "MINISTERE DE L'ADMINISTRATION TERRITORIALE",
+      "ae": "43 665 000",
+      "cp": "42 510 000",
+      "programmes": [
+        {
+          "n": "17",
+          "code": "161",
+          "libelle": "ADMINISTRATION DU TERRITOIRE",
+          "objectif": "Accroître la représentativité de l'administration du territoire",
+          "indicateur": "Proportion des rapports des tournées effectuées transmis par les Autorités Administratives au cours de l'année",
+          "ae": "6 759 436",
+          "cp": "6 759 436"
+        },
+        {
+          "n": "18",
+          "code": "162",
+          "libelle": "CONTRIBUTION A LA PROMOTION DES LIBERTES PUBLIQUES ET SECURITE DES PERSONNES ET DES BIENS",
+          "objectif": "Assurer le respect de la règlementation en matière des libertés individuelles et collectives",
+          "indicateur": "1.Nombre de rapports sur la situation sécuritaire élaborés par an 2.Proportion des organisations de la société civile contrôlées par an",
+          "ae": "2 068 753",
+          "cp": "2 068 753"
+        },
+        {
+          "n": "19",
+          "code": "163",
+          "libelle": "DEVELOPPEMENT DU DISPOSITIF NATIONAL DE PROTECTION CIVILE",
+          "objectif": "Renforcer la résilience face aux risques, aux catastrophes et leurs effets",
+          "indicateur": "Nombre de départements disposant des Plans d'Organisation de Secours (ORSEC)",
+          "ae": "2 385 000",
+          "cp": "2 385 000"
+        },
+        {
+          "n": "20",
+          "code": "164",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE DOMAINE DE L'ADMINISTRATION DU TERRITOIRE",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du Ministère",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du ministère",
+          "ae": "32 451 811",
+          "cp": "31 296 811"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 08",
+      "libelle_chapitre": "MINISTERE DE LA JUSTICE",
+      "ae": "88 377 782",
+      "cp": "74 808 000",
+      "programmes": [
+        {
+          "n": "21",
+          "code": "050",
+          "libelle": "AMELIORATION DE L'ACTIVITE JURIDICTIONNELLE",
+          "objectif": "Améliorer la qualité et l'accès équitable au service public de la Justice",
+          "indicateur": "1.Proportion des affaires traitées dans les délais raisonnables 2.Taux de couverture en TPI 3.Proportion de Magistrats ayant une surcharge de travail",
+          "ae": "49 602 066",
+          "cp": "36 032 284"
+        },
+        {
+          "n": "22",
+          "code": "051",
+          "libelle": "AMELIORATION DE LA POLITIQUE PENITENTIAIRE",
+          "objectif": "Améliorer les conditions de détention et la promotion de la réinsertion sociale des détenus",
+          "indicateur": "1.Proportion des détenus formés à la réinsertion 2.Proportion des détenus disposant d'une place dans les prisons",
+          "ae": "25 722 895",
+          "cp": "25 722 895"
+        },
+        {
+          "n": "23",
+          "code": "052",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU SOUS-SECTEUR JUSTICE",
+          "objectif": "Assurer annuellement l'efficacité et l'efficience des services pour la mise en œuvre optimale des Programmes du Ministère de la Justice",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du Ministère de la Justice",
+          "ae": "13 052 821",
+          "cp": "13 052 821"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 09",
+      "libelle_chapitre": "COUR SUPREME",
+      "ae": "4 330 871",
+      "cp": "5 807 000",
+      "programmes": [
+        {
+          "n": "24",
+          "code": "114",
+          "libelle": "CONTROLE DE LA TRANSPARENCE FINANCIERE DE LA GESTION BUDGETAIRE ET DE LA QUALITE DES COMPTES PUBLICS",
+          "objectif": "Renforcer le contrôle et le jugement des comptes publics",
+          "indicateur": "Taux de contrôle juridictionnel effectué",
+          "ae": "1 058 041",
+          "cp": "1 058 041"
+        },
+        {
+          "n": "25",
+          "code": "115",
+          "libelle": "GESTION DES CONTENTIEUX JUDICIAIRES ET ADMINISTRATIFS",
+          "objectif": "Améliorer le rendement de la Cour Suprême en matière Judiciaire et Administrative",
+          "indicateur": "Taux de décisions rendues en matière judiciaire et administrative",
+          "ae": "455 249",
+          "cp": "455 249"
+        },
+        {
+          "n": "26",
+          "code": "188",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DE LA COUR SUPRÊME",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes de la CS",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein de la Cour Suprême",
+          "ae": "2 817 581",
+          "cp": "4 293 710"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 10",
+      "libelle_chapitre": "MINISTERE DES MARCHES PUBLICS",
+      "ae": "17 014 400",
+      "cp": "16 790 000",
+      "programmes": [
+        {
+          "n": "27",
+          "code": "027",
+          "libelle": "ADMINISTRATION DU SYSTEME DES MARCHES PUBLICS",
+          "objectif": "Assurer le bon fonctionnement du système des marchés publics",
+          "indicateur": "Proportion des marchés passés suivant la procédure de gré à gré",
+          "ae": "2 310 100",
+          "cp": "2 310 100"
+        },
+        {
+          "n": "28",
+          "code": "028",
+          "libelle": "PROGRAMMATION ET SUIVI DES MARCHES PUBLICS",
+          "objectif": "Veiller à la programmation et à la bonne passation des marchés publics",
+          "indicateur": "Proportion des marchés programmés exécutés",
+          "ae": "2 109 490",
+          "cp": "2 109 490"
+        },
+        {
+          "n": "29",
+          "code": "029",
+          "libelle": "CONTROLE EXTERNE DE L'EXECUTION DES MARCHES PUBLICS",
+          "objectif": "Veiller à la qualité des prestations réalisées",
+          "indicateur": "Proportion des marchés exécutés dans le respect des spécifications techniques",
+          "ae": "1 787 976",
+          "cp": "1 787 976"
+        },
+        {
+          "n": "30",
+          "code": "030",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS-SECTEUR DES MARCHES PUBLICS",
+          "objectif": "Améliorer la performance des services",
+          "indicateur": "Taux de réalisation des activités budgétisées",
+          "ae": "10 806 834",
+          "cp": "10 582 434"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 11",
+      "libelle_chapitre": "CONTROLE SUPERIEUR DE L'ETAT",
+      "ae": "9 615 877",
+      "cp": "6 600 000",
+      "programmes": [
+        {
+          "n": "31",
+          "code": "067",
+          "libelle": "RENFORCEMENT DE LA PREVENTION DES ATTEINTES A LA FORTUNE PUBLIQUE",
+          "objectif": "Promouvoir la culture de la bonne gouvernance dans la gestion des affaires publiques",
+          "indicateur": "Proportion d'acteurs de la gestion des finances publiques Hommes et Femmes s'étend appropriés les normes du contrôle interne et les mesures de prévention des atteintes à la fortune publique",
+          "ae": "886 000",
+          "cp": "886 000"
+        },
+        {
+          "n": "32",
+          "code": "076",
+          "libelle": "AUDITS, CONTRÔLE ET SANCTIONS",
+          "objectif": "Sanctionner les Gestionnaires indélicats et Réparer les préjudices subis par l'Etat, Suivre l'application des sanctions prises par le CDBF",
+          "indicateur": "1.Nombre d'entités contrôlées et auditées 2.Proportion d'affaire examinée par le CDBF par an",
+          "ae": "2 226 250",
+          "cp": "2 226 250"
+        },
+        {
+          "n": "33",
+          "code": "077",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DES SERVICES DU CONTRÔLE SUPERIEUR DE L'ETAT",
+          "objectif": "Assurer la mise en œuvre optimale des programmes du CONSUPE",
+          "indicateur": "Taux de réalisation des activités budgétisées",
+          "ae": "6 503 627",
+          "cp": "3 487 750"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 12",
+      "libelle_chapitre": "DELEGATION GENERALE A LA SURETE NATIONALE",
+      "ae": "122 096 000",
+      "cp": "122 096 000",
+      "programmes": [
+        {
+          "n": "34",
+          "code": "062",
+          "libelle": "CONSOLIDATION DE LA SÉCURITÉ PUBLIQUE",
+          "objectif": "Accroître la protection des institutions, des libertés publiques, des personnes et des biens",
+          "indicateur": "Taux de couverture sécuritaire du territoire national",
+          "ae": "9 967 287",
+          "cp": "9 967 287"
+        },
+        {
+          "n": "35",
+          "code": "063",
+          "libelle": "RENFORCEMENT DE LA SÉCURITÉ FRONTALIÈRE",
+          "objectif": "Accroitre la sécurité des frontières",
+          "indicateur": "Proportion d'actes criminels et d'infractions transfrontaliers maîtrisés",
+          "ae": "6 488 547",
+          "cp": "6 488 547"
+        },
+        {
+          "n": "36",
+          "code": "064",
+          "libelle": "REDYNAMISATION DU SYSTÈME DE RENSEIGNEMENT",
+          "objectif": "Mettre à la disposition des autorités, des renseignements pour la prise de décisions",
+          "indicateur": "Quantité de notes de synthèse sécuritaires produites",
+          "ae": "7 030 388",
+          "cp": "7 030 388"
+        },
+        {
+          "n": "37",
+          "code": "065",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DE LA DGSN",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes",
+          "indicateur": "Taux de réalisation des activités budgétisées à la DGSN",
+          "ae": "98 609 778",
+          "cp": "98 609 778"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 13",
+      "libelle_chapitre": "MINISTERE DE LA DEFENSE",
+      "ae": "365 696 381",
+      "cp": "364 860 000",
+      "programmes": [
+        {
+          "n": "38",
+          "code": "001",
+          "libelle": "DÉFENSE DE L'INTÉGRITÉ DU TERRITOIRE NATIONAL",
+          "objectif": "Renforcer les mesures garantissant l'intégrité territoriale",
+          "indicateur": "Taux de réalisation des Tableaux des Effectifs et de Dotations Générales des armées",
+          "ae": "169 058 969",
+          "cp": "168 556 443"
+        },
+        {
+          "n": "39",
+          "code": "003",
+          "libelle": "PARTICIPATION A LA SÉCURITÉ DES PERSONNES, DES BIENS ET DE L'ENVIRONNEMENT",
+          "objectif": "Garantir les conditions de sécurité et de paix favorables au développement",
+          "indicateur": "Taux de criminalité évalué par la Gendarmerie Nationale",
+          "ae": "88 780 559",
+          "cp": "88 805 663"
+        },
+        {
+          "n": "40",
+          "code": "004",
+          "libelle": "ASSISTANCE, RECONVERSION ET REINSERTION DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE (ACVG)",
+          "objectif": "Améliorer le suivi, la reconversion et la réinsertion des Anciens Combattants et Victimes de guerre",
+          "indicateur": "Nombre des ACVG ou leurs ayants causes pris en charge ou assistés",
+          "ae": "41 656 514",
+          "cp": "41 656 514"
+        },
+        {
+          "n": "41",
+          "code": "005",
+          "libelle": "PARTICIPATION À l'ACTION NATIONALE DE DÉVELOPPEMENT",
+          "objectif": "Améliorer l'appui du MINDEF dans des domaines spécifiques contribuant au développement socio-économique du Cameroun",
+          "indicateur": "Taux de réalisation des diverses sollicitations infrastructurelles à l'endroit des structures du MINDEF",
+          "ae": "9 657 441",
+          "cp": "9 657 441"
+        },
+        {
+          "n": "42",
+          "code": "006",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU SOUS-SECTEUR DÉFENSE",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes au Ministère de la Défense",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du Ministère de la Défense",
+          "ae": "56 542 898",
+          "cp": "56 183 939"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 14",
+      "libelle_chapitre": "MINISTERE DES ARTS ET DE LA CULTURE",
+      "ae": "10 846 300",
+      "cp": "9 429 000",
+      "programmes": [
+        {
+          "n": "43",
+          "code": "148",
+          "libelle": "CONSERVATION DE LA CULTURE ET DE L'ART CAMEROUNAIS",
+          "objectif": "Reconstituer el sauvegarder le patrimoine culturel et artistique",
+          "indicateur": "proportion de biens et éléments culturels viabilisés et opérationnels",
+          "ae": "1 658 000",
+          "cp": "1 658 000"
+        },
+        {
+          "n": "44",
+          "code": "149",
+          "libelle": "DEVELOPPEMENT ET VALORISATION DE LA PRODUCTION DES BIENS ET SERVICES CULTURELS",
+          "objectif": "favoriser l'émergence d'un secteur culturel marchand organisé, compétitif et créateur de revenus et d'emplois durables",
+          "indicateur": "Proportion des actions menées pour favoriser la production et la consommation des biens et services culturels",
+          "ae": "5 636 800",
+          "cp": "4 219 500"
+        },
+        {
+          "n": "45",
+          "code": "182",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU MINISTERE DES ARTS ET DE LA CULTURE",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du Ministère.",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du MINAC",
+          "ae": "3 551 500",
+          "cp": "3 551 500"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 15",
+      "libelle_chapitre": "MINISTERE DE L'EDUCATION DE BASE",
+      "ae": "313 614 000",
+      "cp": "313 614 000",
+      "programmes": [
+        {
+          "n": "46",
+          "code": "101",
+          "libelle": "DÉVELOPPEMENT DU PRÉSCOLAIRE",
+          "objectif": "Accroître le taux de préscolarisation sur toute l'étendue du territoire national.",
+          "indicateur": "Taux brut de préscolarisation",
+          "ae": "30 883 070",
+          "cp": "30 883 070"
+        },
+        {
+          "n": "47",
+          "code": "102",
+          "libelle": "UNIVERSALISATION DU CYCLE PRIMAIRE",
+          "objectif": "Améliorer l'accès et l'achèvement de tous les enfants d'âge scolaire à un enseignement primaire de qualité et inclusif",
+          "indicateur": "1.Taux d'achèvement du cycle primaire 2.Taux net d'admission au primaire",
+          "ae": "234 476 493",
+          "cp": "234 476 493"
+        },
+        {
+          "n": "48",
+          "code": "103",
+          "libelle": "ALPHABÉTISATION",
+          "objectif": "Accroitre le pourcentage de la population alphabétisée dans les CAF, les CEBNF et les CPLN",
+          "indicateur": "Pourcentage de la population alphabétisée dans les CAF, les CEBNF et les CPLN",
+          "ae": "4 695 027",
+          "cp": "4 695 027"
+        },
+        {
+          "n": "49",
+          "code": "104",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU SOUS-SECTEUR EDUCATION DE BASE",
+          "objectif": "Optimiser la mise en œuvre efficace des programmes opérationnels",
+          "indicateur": "Taux moyen de réalisation des indicateurs des programmes opérationnels",
+          "ae": "43 559 410",
+          "cp": "43 559 410"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 16",
+      "libelle_chapitre": "MINISTERE DES SPORTS ET DE L'EDUCATION PHYSIQUE",
+      "ae": "31 086 000",
+      "cp": "31 086 000",
+      "programmes": [
+        {
+          "n": "50",
+          "code": "007",
+          "libelle": "DEVELOPPEMENT DE L'EDUCATION PHYSIQUE",
+          "objectif": "Accroitre la pratique saine, méthodique et encadrée des Activités Physiques et Sportives (APS)",
+          "indicateur": "Proportion des personnes ayant participé aux activités de promotion et de vulgarisation de la pratique des APS",
+          "ae": "8 597 500",
+          "cp": "8 597 500"
+        },
+        {
+          "n": "51",
+          "code": "008",
+          "libelle": "DEVELOPPEMENT DU SPORT",
+          "objectif": "Améliorer le rayonnement international du Cameroun par le sport et la gouvernance du mouvement sportif national",
+          "indicateur": "proportion des fédérations sportives organisant des compétitions sur le plan national",
+          "ae": "14 460 000",
+          "cp": "14 460 000"
+        },
+        {
+          "n": "52",
+          "code": "009",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS-SECTEUR SPORT ET EDUCATION PHYSIQUE",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du MINSEP",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du Ministère",
+          "ae": "8 028 500",
+          "cp": "8 028 500"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 17",
+      "libelle_chapitre": "MINISTERE DE LA COMMUNICATION",
+      "ae": "7 284 000",
+      "cp": "7 284 000",
+      "programmes": [
+        {
+          "n": "53",
+          "code": "013",
+          "libelle": "Accroissement de l'accès des populations aux contenus médiatiques",
+          "objectif": "Accroitre qualitativement et quantitativement la couverture nationale de l'information par les médias publics et à capitaux privés",
+          "indicateur": "Taux de couverture",
+          "ae": "1 578 000",
+          "cp": "1 578 000"
+        },
+        {
+          "n": "54",
+          "code": "097",
+          "libelle": "Développement d'une communication multisectorielle axée sur la performance sociétale",
+          "objectif": "Accroitre l'offre d'information institutionnelle pour l'accès des populations aux services sociaux de base ainsi que la disponibilité des dites informations auprès des publics concernés",
+          "indicateur": "Pourcentage de la population sensibilisée sur l'utilisation des services sociaux de base en vue d'améliorer leurs conditions de vie",
+          "ae": "2 369 750",
+          "cp": "2 369 750"
+        },
+        {
+          "n": "55",
+          "code": "160",
+          "libelle": "Gouvernance et appui institutionnel dans le sous-secteur de la communication",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes au Ministère de la Communication",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du Ministère de la Communication",
+          "ae": "3 336 250",
+          "cp": "3 336 250"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 18",
+      "libelle_chapitre": "MINISTERE DE L'ENSEIGNEMENT SUPERIEUR",
+      "ae": "136 668 000",
+      "cp": "136 668 000",
+      "programmes": [
+        {
+          "n": "56",
+          "code": "116",
+          "libelle": "DEVELOPPEMENT DE LA COMPOSANTE TECHNOLOGIQUE ET PROFESSIONNELLE DE L'ENSEIGNEMENT SUPERIEUR",
+          "objectif": "Accroitre en quantité et en qualité le nombre des étudiants formés dans les établissements technologiques et professionnels de l'enseignement supérieur",
+          "indicateur": "Pourcentage des étudiants formés dans les établissements technologiques et professionnels de l'enseignement supérieur",
+          "ae": "17 146 380",
+          "cp": "17 146 380"
+        },
+        {
+          "n": "57",
+          "code": "117",
+          "libelle": "MODERNISATION ET PROFESSIONNALISATION DES ETABLISSEMENTS FACULTAIRES CLASSIQUES",
+          "objectif": "Donner des compétences et aptitudes professionnelles aux étudiants des établissements facultaires classiques leur permettant de trouver un emploi ou de s'auto-employer",
+          "indicateur": "1. Taux d'encadrement annuel des étudiants de niveau Master 2. Taux d'insertion professionnelle des étudiants ayant suivi une formation dans les filières des établissements facultaires classiques 3.Nombre d'étudiants pour une place assise",
+          "ae": "11 025 081",
+          "cp": "11 025 081"
+        },
+        {
+          "n": "58",
+          "code": "118",
+          "libelle": "DEVELOPPEMENT DE LA RECHERCHE ET DE L'INNOVATION UNIVERSITAIRE",
+          "objectif": "Permettre à la recherche universitaire d'impacter positivement le développement du pays en vue de son émergence",
+          "indicateur": "Nombre de résultats de la recherche universitaire exploités dans les secteurs prioritaires définis dans la stratégie de développement par an.",
+          "ae": "26 569 824",
+          "cp": "26 569 824"
+        },
+        {
+          "n": "59",
+          "code": "119",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS SECTEUR ENSEIGNEMENT SUPERIEUR",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes dans l'Enseignement Supérieur",
+          "indicateur": "Taux de réalisation des activités budgétisées au MINESUP",
+          "ae": "81 926 715",
+          "cp": "81 926 715"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 19",
+      "libelle_chapitre": "MINISTERE DE LA RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION",
+      "ae": "29 906 000",
+      "cp": "29 906 000",
+      "programmes": [
+        {
+          "n": "60",
+          "code": "136",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL AU SOUS-SECTEUR RECHERCHE ET INNOVATION",
+          "objectif": "Améliorer la coordination, le fonctionnement et la performance du sous-secteur Recherche et Innovation",
+          "indicateur": "Taux de mise en œuvre du plan d'action ministériel",
+          "ae": "8 194 800",
+          "cp": "8 194 800"
+        },
+        {
+          "n": "61",
+          "code": "193",
+          "libelle": "DENSIFICATION DE LA RECHERCHE-DEVELOPPEMENT ET DE L'INNOVATION",
+          "objectif": "Accroitre les performances de la recherche scientifique, technologique et d'innovation",
+          "indicateur": "Nombre de résultats de la recherche produits et diffusés",
+          "ae": "21 711 200",
+          "cp": "21 711 200"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 20",
+      "libelle_chapitre": "MINISTERE DES FINANCES",
+      "ae": "96 715 000",
+      "cp": "96 715 000",
+      "programmes": [
+        {
+          "n": "62",
+          "code": "031",
+          "libelle": "MOBILISATION DES RECETTES FISCALES INTERNES NON PÉTROLIÈRES",
+          "objectif": "Améliorer le recouvrement des recettes fiscales internes non pétrolières et le climat des affaires",
+          "indicateur": "Taux de recouvrement des recettes fiscales internes non pétrolières",
+          "ae": "19 100 246",
+          "cp": "19 100 246"
+        },
+        {
+          "n": "63",
+          "code": "032",
+          "libelle": "GOUVERNANCE DOUANIÈRE, PROTECTION DE L'ESPACE ÉCONOMIQUE ET PARTICIPATION A LA SÉCURITÉ NATIONALE",
+          "objectif": "Faciliter le commerce extérieur et contribuer à la sécurité nationale",
+          "indicateur": "1.Taux d'interception des marchandises stratégiques en circulation au Cameroun 2.Taux de dématérialisation des procédures douanières",
+          "ae": "13 738 648",
+          "cp": "13 738 648"
+        },
+        {
+          "n": "64",
+          "code": "033",
+          "libelle": "GESTION DU TRÉSOR PUBLIC ET SUIVI DU SECTEUR FINANCIER",
+          "objectif": "Améliorer l'efficacité du Trésor Public et optimiser le financement de l'économie.",
+          "indicateur": "1.Durée moyenne de paiement des dépenses après leur prise en charge par les services du Trésor 2.Taux annuel de progression de la part des crédits à l'économie dans le PIB.",
+          "ae": "18 578 268",
+          "cp": "18 578 268"
+        },
+        {
+          "n": "65",
+          "code": "034",
+          "libelle": "GESTION BUDGÉTAIRE DE L'ÉTAT",
+          "objectif": "Assurer la préparation adéquate des Projets de Loi de Finances et l'exécution efficace des budgets des Entités Publiques",
+          "indicateur": "1.Durée moyenne de traitement des dossiers de dépenses 2.Niveau de respect des rendez-vous budgétaires",
+          "ae": "22 903 525",
+          "cp": "22 903 525"
+        },
+        {
+          "n": "66",
+          "code": "092",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du Ministère",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du ministère",
+          "ae": "22 394 314",
+          "cp": "22 394 314"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 21",
+      "libelle_chapitre": "MINISTERE DU COMMERCE",
+      "ae": "11 561 000",
+      "cp": "11 361 000",
+      "programmes": [
+        {
+          "n": "67",
+          "code": "015",
+          "libelle": "APPUI AU DEVELOPPEMENT DES EXPORTATIONS",
+          "objectif": "Contribuer à l'amélioration de la compétitivité des produits « made in Cameroon » dans les marchés d'exportation",
+          "indicateur": "Part des produits mis en marché à l'étranger dans l'ensemble des produits devant faire l'objet d'un encadrement du MINCOMMERCE",
+          "ae": "652 412",
+          "cp": "652 412"
+        },
+        {
+          "n": "68",
+          "code": "021",
+          "libelle": "REGULATION DU MARCHE INTERIEUR",
+          "objectif": "Veiller à l'approvisionnement régulier du marché intérieur dans les conditions de saine concurrence",
+          "indicateur": "Indice des prix des produits de grande consommation",
+          "ae": "5 497 124",
+          "cp": "5 497 124"
+        },
+        {
+          "n": "69",
+          "code": "025",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU MINCOMMERCE",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes.",
+          "indicateur": "Taux de réalisation des activités budgétisées",
+          "ae": "4 641 376",
+          "cp": "4 441 376"
+        },
+        {
+          "n": "70",
+          "code": "152",
+          "libelle": "PROMOTION DE LA METROLOGIE, DE LA VEILLE NORMATIVE ET ENCADREMENT DU JUSTE PRIX",
+          "objectif": "Ce programme a pour objectif de garantir l'équité dans les activités commerciales.",
+          "indicateur": "Taux d'équité des transactions commerciales",
+          "ae": "770 088",
+          "cp": "770 088"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 22",
+      "libelle_chapitre": "MINISTERE DE L'ECONOMIE, DE LA PLANIFICATION ET DE L'AMENAGEMENT DU TERRITOIRE",
+      "ae": "152 132 000",
+      "cp": "152 132 000",
+      "programmes": [
+        {
+          "n": "71",
+          "code": "019",
+          "libelle": "PLANIFICATION STRATEGIQUE ET AMENAGEMENT DURABLE DU TERRITOIRE",
+          "objectif": "Veiller à la mise en œuvre de la SND-30, favoriser un développement harmonieux et durable du territoire et contribuer à la lutte contre la pauvreté",
+          "indicateur": "Taux de production des rapports et outils stratégiques attendus",
+          "ae": "58 170 273",
+          "cp": "58 170 273"
+        },
+        {
+          "n": "72",
+          "code": "022",
+          "libelle": "APPUI A LA TRANSFORMATION STRUCTURELLE POUR L'ACCELERATION DE LA CROISSANCE",
+          "objectif": "Contribuer à la transformation structurelle en vue de l'accélération de la croissance économique",
+          "indicateur": "1.Taux d'exécution physique du BIP. 2.Proportion de projets du Programme d'Investissement Prioritaire (PIP) inscrits dans le budget de l'Etat",
+          "ae": "66 644 335",
+          "cp": "66 644 335"
+        },
+        {
+          "n": "73",
+          "code": "023",
+          "libelle": "RENFORCEMENT DU PARTENARIAT AU DEVELOPPEMENT ET DE L'INTEGRATION REGIONALE",
+          "objectif": "Améliorer l'alignement des apports de partenariats économiques et de l'intégration régionale à la réalisation des priorités de développement du Cameroun.",
+          "indicateur": "Ratio annuel des financements extérieurs mobilisés conformément aux termes et conditions fixés par la loi de finances",
+          "ae": "17 144 191",
+          "cp": "17 144 191"
+        },
+        {
+          "n": "74",
+          "code": "024",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU SOUS-SECTEUR DE L'ECONOMIE, DE LA PLANIFICATION ET DE L'AMENAGEMENT DU TERRITOIRE",
+          "objectif": "Améliorer la coordination des services et appuyer la mise en œuvre des programmes opérationnels",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du MINEPAT",
+          "ae": "10 173 201",
+          "cp": "10 173 201"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 23",
+      "libelle_chapitre": "MINISTERE DU TOURISME ET DES LOISIRS",
+      "ae": "9 894 000",
+      "cp": "9 309 000",
+      "programmes": [
+        {
+          "n": "75",
+          "code": "014",
+          "libelle": "PROMOTION DU TOURISME ET DES LOISIRS",
+          "objectif": "Attirer les visiteurs internationaux et internes",
+          "indicateur": "Nombre de visiteurs internationaux",
+          "ae": "1 594 150",
+          "cp": "1 594 150"
+        },
+        {
+          "n": "76",
+          "code": "150",
+          "libelle": "DIVERSIFICATION ET RENFORCEMENT DE L'OFFRE DU TOURISME ET DES LOISIRS",
+          "objectif": "Accroitre l'offre des produits et services touristiques et de loisirs",
+          "indicateur": "Valeur ajoutée crééé par le secteur du tourisme et loisirs",
+          "ae": "4 423 575",
+          "cp": "4 063 575"
+        },
+        {
+          "n": "77",
+          "code": "151",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS SECTEUR TOURISME ET LOISIRS",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes",
+          "indicateur": "Taux de réalisation des activités programmées et budgétisées",
+          "ae": "3 876 275",
+          "cp": "3 651 275"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 25",
+      "libelle_chapitre": "MINISTERE DES ENSEIGNEMENTS SECONDAIRES",
+      "ae": "584 166 000",
+      "cp": "584 166 000",
+      "programmes": [
+        {
+          "n": "78",
+          "code": "105",
+          "libelle": "RENFORCEMENT DE L'ACCES AUX ENSEIGNEMENTS SECONDAIRES",
+          "objectif": "Accroître l'accès aux Enseignements Secondaires",
+          "indicateur": "Taux de transition du primaire au secondaire (donc celui des filles et des garçons)",
+          "ae": "134 038 800",
+          "cp": "134 038 800"
+        },
+        {
+          "n": "79",
+          "code": "106",
+          "libelle": "AMELIORATION DE LA QUALITE DE L'EDUCATION ET DE LA VIE EN MILIEU SCOLAIRE DANS LE SOUS-SECTEUR DES ENSEIGNEMENTS SECONDAIRES",
+          "objectif": "Améliorer la qualité des enseignements et des apprentissages dans le sous-secteur des Enseignements Secondaires",
+          "indicateur": "Taux d'achèvement des premiers et second cycle",
+          "ae": "285 327 000",
+          "cp": "285 327 000"
+        },
+        {
+          "n": "80",
+          "code": "107",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS SECTEUR ENSEIGNEMENTS SECONDAIRES",
+          "objectif": "Améliorer la gouvernance et la gestion optimale des ressources",
+          "indicateur": "Taux de réalisation des activités programmées au MINESEC",
+          "ae": "52 727 200",
+          "cp": "52 727 200"
+        },
+        {
+          "n": "81",
+          "code": "112",
+          "libelle": "INTENSIFICATION DE LA PROFESSIONNALISATION ET OPTIMISATION DE LA FORMATION DANS LE SOUS SECTEUR DES ENSEIGNEMENTS SECONDAIRES",
+          "objectif": "Accroître les compétences professionnelles des apprenants du secondaire technique et professionnel",
+          "indicateur": "Pourcentage des apprenants par sexe, dans les filières porteuses",
+          "ae": "112 073 000",
+          "cp": "112 073 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 26",
+      "libelle_chapitre": "MINISTERE DE LA JEUNESSE ET DE L'EDUCATION CIVIQUE",
+      "ae": "30 007 000",
+      "cp": "30 007 000",
+      "programmes": [
+        {
+          "n": "82",
+          "code": "144",
+          "libelle": "EDUCATION CIVIQUE ET VOLONTARIAT",
+          "objectif": "Inculquer les valeurs civiques, morales et éthiques aux populations",
+          "indicateur": "1.Proportion de la population ayant acquis des comportements civiques 2.Nombre de personnes formées aux valeurs citoyennes par les structures d'encadrement du MINJEC",
+          "ae": "8 483 999",
+          "cp": "8 483 999"
+        },
+        {
+          "n": "83",
+          "code": "145",
+          "libelle": "INSERTION SOCIO-ECONOMIQUE DES JEUNES",
+          "objectif": "Accroitre l'insertion économique des jeunes encadrés dans les structures du MINJEC",
+          "indicateur": "Taux d'insertion économique des jeunes formés dans les structures d'encadrement du MINJEC",
+          "ae": "10 417 555",
+          "cp": "10 417 555"
+        },
+        {
+          "n": "84",
+          "code": "146",
+          "libelle": "INTEGRATION NATIONALE ET PARTICIPATION CITOYENNE",
+          "objectif": "Renforcer les valeurs républicaines au sein des populations",
+          "indicateur": "1.Nombre de personnes formées sur les valeurs républicaines (vivre ensemble et participation au développement) 2.Proportion des populations ayant des compétences républicaines",
+          "ae": "5 306 922",
+          "cp": "5 306 922"
+        },
+        {
+          "n": "85",
+          "code": "147",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL AU MINISTERE DE LA JEUNESSE ET DE L'EDUCATION CIVIQUE",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du Ministère de la Jeunesse et de l'Education Civique",
+          "ae": "5 798 524",
+          "cp": "5 798 524"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 27",
+      "libelle_chapitre": "MINISTRE DE LA DECENTRALISATION ET DU DEVELOPPEMENT LOCAL",
+      "ae": "126 165 000",
+      "cp": "126 165 000",
+      "programmes": [
+        {
+          "n": "86",
+          "code": "098",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS SECTEUR DECENTRALISATION ET DEVELOPPEMENT LOCAL",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du MINDDEVEL",
+          "indicateur": "Taux de réalisation des activités budgétisées au MINDDEVEL",
+          "ae": "4 154 820",
+          "cp": "4 154 820"
+        },
+        {
+          "n": "87",
+          "code": "099",
+          "libelle": "APPROFONDISSEMENT DU PROCESSUS DE DÉCENTRALISATION",
+          "objectif": "Renforcer l'autonomie administrative et financière des CTD",
+          "indicateur": "Nombre de communes dont les ressources financières augmentent d'au moins 5% par an",
+          "ae": "29 891 680",
+          "cp": "29 891 680"
+        },
+        {
+          "n": "88",
+          "code": "100",
+          "libelle": "PROMOTION DU DEVELOPPEMENT LOCAL",
+          "objectif": "Promouvoir la contribution des CTD à la croissance économique et le développement local",
+          "indicateur": "Taux d'exécution physique des projets mis en œuvre par les CTD",
+          "ae": "92 118 500",
+          "cp": "92 118 500"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 28",
+      "libelle_chapitre": "MINISTERE DE L'ENVIRONNEMENT, DE LA PROTECTION DE LA NATURE ET DU DEVELOPPEMENT DURABLE",
+      "ae": "11 880 000",
+      "cp": "11 880 000",
+      "programmes": [
+        {
+          "n": "89",
+          "code": "002",
+          "libelle": "CHANGEMENTS CLIMATIQUES, DESERTIFICATION ET SECHERESSE",
+          "objectif": "Réduire la vulnérabilité des activités de développement des populations aux effets néfastes des changements climatiques, de la désertification et la sécheresse",
+          "indicateur": "1.Niveau d'adaptation et de résilience des secteurs de développement aux changements climatiques 2.Taux des terres restaurés dans la zone d'intervention prioritaire n°1",
+          "ae": "5 647 000",
+          "cp": "5 647 000"
+        },
+        {
+          "n": "90",
+          "code": "069",
+          "libelle": "BIODIVERSITE",
+          "objectif": "Assurer le suivi et la promotion de la conservation, de l'utilisation durable, de la restauration et de la valorisation de la Biodiversité",
+          "indicateur": "Evolution de l'état des écosystèmes, des espèces et des ressources génétiques de la Biodiversité",
+          "ae": "1 853 000",
+          "cp": "1 853 000"
+        },
+        {
+          "n": "91",
+          "code": "091",
+          "libelle": "DEVELOPPEMENT DURABLE",
+          "objectif": "Promouvoir la prise en compte du développement durable dans les programmes et projets au Cameroun",
+          "indicateur": "1.Nombre des programmes et projets de développement intégrant les questions environnementales dans leurs élaborations et leurs mises en œuvre ; 2.Nombre d'initiatives de développement promouvant la prise en compte des aspects environnementaux encadrés par le MINEPDED",
+          "ae": "894 000",
+          "cp": "894 000"
+        },
+        {
+          "n": "92",
+          "code": "093",
+          "libelle": "POLLUTIONS, NUISANCES ET SUBSTANCES CHIMIQUES NOCIVES ET/OU DANGEREUSES",
+          "objectif": "Réduire les pollutions et nuisances environnementales",
+          "indicateur": "1.Quantité de déchets dangereux gérés de manière écologiquement rationnelle 2.Pourcentage d'installations inspectées conformes 3.Quantité de déchets non dangereux gérés de manière écologiquement rationnelle",
+          "ae": "1 291 000",
+          "cp": "1 291 000"
+        },
+        {
+          "n": "93",
+          "code": "094",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU SOUS-SECTEUR ENVIRONNEMENT, PROTECTION DE LA NATURE ET DEVELOPPEMENT DURABLE",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes techniques du sous - secteur Environnement, à la Protection de la nature et au Développement Durable",
+          "indicateur": "Taux de réalisation des activités budgétisées du MINEPDED",
+          "ae": "2 195 000",
+          "cp": "2 195 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 29",
+      "libelle_chapitre": "MINISTERE DES MINES, DE L'INDUSTRIE ET DU DEVELOPPEMENT TECHNOLOGIQUE",
+      "ae": "13 154 000",
+      "cp": "13 154 000",
+      "programmes": [
+        {
+          "n": "94",
+          "code": "035",
+          "libelle": "AMELIORATION DE LA CONNAISSANCE DU POTENTIEL GEOLOGIQUE ET VALORISATION DES RESSOURCES MINIERES",
+          "objectif": "Développer le secteur des mines et carrières",
+          "indicateur": "1.Taux de connaissance du potentiel géologique 2.Proportion des réserves minérales exploitées",
+          "ae": "2 734 000",
+          "cp": "2 734 000"
+        },
+        {
+          "n": "95",
+          "code": "036",
+          "libelle": "DEVELOPPEMENT ET DENSIFICATION DU TISSU INDUSTRIEL",
+          "objectif": "Améliorer la contribution du secteur manufacturier à l'économie locale",
+          "indicateur": "Taux de transformation locale des matières premières",
+          "ae": "3 932 500",
+          "cp": "3 932 500"
+        },
+        {
+          "n": "96",
+          "code": "037",
+          "libelle": "MODERNISATION DE L'INFRASTRUCTURE QUALITE",
+          "objectif": "Contribuer à l'amélioration de la compétitivité technique de l'industrie locale",
+          "indicateur": "Indice de développement de l'infrastructure qualité",
+          "ae": "838 500",
+          "cp": "838 500"
+        },
+        {
+          "n": "97",
+          "code": "038",
+          "libelle": "DEVELOPPEMENT DES TECHNOLOGIES ET VALORISATION DES ACTIFS DE LA PROPRIETE INDUSTRIELLE",
+          "objectif": "Favoriser le développement des technologies et la valorisation des actifs de propriété industrielle",
+          "indicateur": "1.Proportion des technologies produites en série au courant de l'année 2.Nombre d'actifs de la propriété industrielle valorisés",
+          "ae": "952 400",
+          "cp": "952 400"
+        },
+        {
+          "n": "98",
+          "code": "039",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS-SECTEUR MINES, INDUSTRIE ET DEVELOPPEMENT TECHNOLOGIQUE",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes au MINMIDT",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du MINMIDT",
+          "ae": "4 696 600",
+          "cp": "4 696 600"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 30",
+      "libelle_chapitre": "MINISTERE DE L'AGRICULTURE ET DU DEVELOPPEMENT RURAL",
+      "ae": "106 574 210",
+      "cp": "106 574 210",
+      "programmes": [
+        {
+          "n": "99",
+          "code": "184",
+          "libelle": "PRODUCTION ET PRODUCTIVITE DES FILIERES AGRICOLES",
+          "objectif": "Accroitre la production annuelle des principales filières agricoles",
+          "indicateur": "Taux d'évolution de la production des principales filières agricoles",
+          "ae": "23 940 024",
+          "cp": "23 940 024"
+        },
+        {
+          "n": "100",
+          "code": "185",
+          "libelle": "GESTION DURABLE DES SYSTEMES DE PRODUCTION AGRICOLE ET SECURITE ALIMENTAIRE",
+          "objectif": "Améliorer l'exploitation durable des terres arables et diminuer le taux d'insécurité alimentaire",
+          "indicateur": "1.Proportion des producteurs ayant adopté des mesures d'adaptation et d'atténuation au changement climatique 2.Proportion de la population nationale touchée par l'insécurité alimentaire",
+          "ae": "16 336 000",
+          "cp": "16 336 000"
+        },
+        {
+          "n": "101",
+          "code": "186",
+          "libelle": "DEVELOPPEMENT DES INFRASTRUCTURES AGRICOLES, RURALES ET MECANISATION AGRICOLE",
+          "objectif": "Améliorer l'accès aux infrastructures de production et équipements agricoles en milieu rural et au financement.",
+          "indicateur": "1.Nombre de tracteurs par 100km2 de terre arrabe. 2.Proportion des communes dotées d'une mini infrastructure rurale par an",
+          "ae": "33 278 530",
+          "cp": "33 278 530"
+        },
+        {
+          "n": "102",
+          "code": "187",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS SECTEUR AGRICULTURE ET DEVELOPPEMENT RURAL",
+          "objectif": "Assurer la bonne mise en œuvre des programmes au Ministère de l'Agriculture et du Développement Rural",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du Ministère de l'Agriculture et du Développement Rural",
+          "ae": "33 019 656",
+          "cp": "33 019 656"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 31",
+      "libelle_chapitre": "MINISTERE DE L'ELEVAGE, DES PECHES ET DES INDUSTRIES ANIMALES",
+      "ae": "52 984 000",
+      "cp": "52 984 000",
+      "programmes": [
+        {
+          "n": "103",
+          "code": "053",
+          "libelle": "DEVELOPPEMENT DES PRODUCTIONS ET DES INDUSTRIES ANIMALES",
+          "objectif": "Assurer l'accroissement de la production des produits d'origine animale",
+          "indicateur": "Taux d'accroissement de la production en équivalent viande des produits et denrées d'origine animale",
+          "ae": "23 109 076",
+          "cp": "23 109 076"
+        },
+        {
+          "n": "104",
+          "code": "055",
+          "libelle": "AMELIORATION DE LA COUVERTURE SANITAIRE DES CHEPTELS ET DE LA LUTTE CONTRE LES ZOONOSES",
+          "objectif": "Protéger le cheptel des maladies animales et améliorer la qualité sanitaire des denrées alimentaires d'origines animale et halieutiques",
+          "indicateur": "Proportion des foyers des maladies (animales et zoonotiques) assainies par rapport au nombre de foyers notifiés et confirmés",
+          "ae": "5 533 181",
+          "cp": "5 533 181"
+        },
+        {
+          "n": "105",
+          "code": "057",
+          "libelle": "DEVELOPPEMENT DES PRODUCTIONS HALIEUTIQUES",
+          "objectif": "Assurer une production croissante et durable des produits halieutiques",
+          "indicateur": "Taux d'accroissement des quantités de produits halieutiques",
+          "ae": "15 814 075",
+          "cp": "15 814 075"
+        },
+        {
+          "n": "106",
+          "code": "059",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS SECTEUR ELEVAGE, PECHES ET INDUSTRIES ANIMALES",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes au Ministère de l'Elevage, des Pêches et des Industries Animales (MINEPIA)",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du Ministère de l'Elevage, des Pêches et des Industries Animales (MINEPIA)",
+          "ae": "8 527 667",
+          "cp": "8 527 667"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 32",
+      "libelle_chapitre": "MINISTERE DE L'EAU ET DE L'ENERGIE",
+      "ae": "493 358 500",
+      "cp": "493 358 500",
+      "programmes": [
+        {
+          "n": "107",
+          "code": "016",
+          "libelle": "OFFRE D'ENERGIE",
+          "objectif": "Produire l'énergie en quantité abondante pour améliorer le cadre de vie des populations, satisfaire l'industrialisation et devenir un pays exportateur de l'électricité",
+          "indicateur": "1.Puissance disponible (MW) 2.Facteur de charge des capacités installées (%) 3.Volume des produits pétroliers, du gaz et les bio-carburants disponible",
+          "ae": "202 138 774",
+          "cp": "202 138 774"
+        },
+        {
+          "n": "108",
+          "code": "137",
+          "libelle": "ACCES A L'ENERGIE",
+          "objectif": "Accroître l'accès à l'énergie pour les ménages et les industries",
+          "indicateur": "1.Taux de couverture des prévisions des consommations nationales des produits pétroliers 2.Taux d'accès à l'électricité (%)",
+          "ae": "146 482 372",
+          "cp": "146 482 372"
+        },
+        {
+          "n": "109",
+          "code": "138",
+          "libelle": "ACCES A L'EAU POTABLE ET L'ASSAINISSEMENT LIQUIDE",
+          "objectif": "Améliorer l'accès à l'eau potable et à l'assainissement liquide des ménages et des opérateurs économiques",
+          "indicateur": "1.Taux de desserte en eau potable (en %) 2.Volume d'eau mobilisée 3.Taux de desserte en infrastructure d'assainissement autonome améliorée",
+          "ae": "62 274 020",
+          "cp": "62 274 020"
+        },
+        {
+          "n": "110",
+          "code": "139",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS-SECTEUR EAU ET ENERGIE",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes",
+          "indicateur": "Taux de réalisation des activités budgétisées",
+          "ae": "82 463 334",
+          "cp": "82 463 334"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 33",
+      "libelle_chapitre": "MINISTERE DES FORETS ET DE LA FAUNE",
+      "ae": "22 054 000",
+      "cp": "22 054 000",
+      "programmes": [
+        {
+          "n": "111",
+          "code": "054",
+          "libelle": "Aménagement et renouvellement de la ressource forestière",
+          "objectif": "Assurer la gestion durable des forêts",
+          "indicateur": "1.Superficie des forêts aménagées 2.Ressources générées par la gestion durable des forêts",
+          "ae": "5 277 450",
+          "cp": "5 277 450"
+        },
+        {
+          "n": "112",
+          "code": "056",
+          "libelle": "Sécurisation et valorisation des ressources fauniques et des Aires protégées",
+          "objectif": "Assurer la gestion durable et la valorisation de la faune et des aires protégées",
+          "indicateur": "1.Nombre d'aires protégées sous aménagement 2.Ressources générées par la gestion de la faune et des aires protégées",
+          "ae": "3 142 442",
+          "cp": "3 142 442"
+        },
+        {
+          "n": "113",
+          "code": "058",
+          "libelle": "Valorisation des ressources forestières ligneuses et non ligneuses",
+          "objectif": "Optimiser l'utilisation des ressources ligneuses et non ligneuses.",
+          "indicateur": "1.Volume de bois débités légal mis sur le marché 2.Quantité de bois énergie el produits forestiers non ligneux légaux mis sur le marché 3.Nombre d'emplois direct des filières bois et des produits forestiers non ligneux",
+          "ae": "2 329 400",
+          "cp": "2 329 400"
+        },
+        {
+          "n": "114",
+          "code": "060",
+          "libelle": "Gouvernance et appui institutionnel dans le sous-secteur forêts et faune",
+          "objectif": "Accroître et améliorer les capacités institutionnelles, techniques et opérationnelles des acteurs au développement du sous-secteur",
+          "indicateur": "Taux de rendement dans la mise en œuvre des activités",
+          "ae": "11 304 708",
+          "cp": "11 304 708"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 35",
+      "libelle_chapitre": "MINISTERE DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+      "ae": "33 134 500",
+      "cp": "33 120 000",
+      "programmes": [
+        {
+          "n": "115",
+          "code": "120",
+          "libelle": "PROMOTION DE L'EMPLOI DÉCENT ET DE L'INSERTION PROFESSIONNELLE",
+          "objectif": "Promouvoir l'emploi décent à travers l'élargissement et la valorisation des opportunités de création d'emploi dans l'économie provenant des initiatives de promotion de l'emploi mises en œuvre par le MINEFOP",
+          "indicateur": "Nombre d'emplois créés et recensés à travers les initiatives de promotion de l'emploi du MINEFOP",
+          "ae": "4 461 050",
+          "cp": "4 461 050"
+        },
+        {
+          "n": "116",
+          "code": "121",
+          "libelle": "DÉVELOPPEMENT DES COMPÉTENCES",
+          "objectif": "Développer les corn pétences des personnes en quête de qualification professionnelle ou de recyclage en adéquation avec les besoins de l'économie",
+          "indicateur": "Nombre des sortants des CFP publics et privées disposant d'un titre professionnel délivré par le MINEFOP",
+          "ae": "18 828 479",
+          "cp": "18 814 479"
+        },
+        {
+          "n": "117",
+          "code": "122",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS-SECTEUR DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes",
+          "indicateur": "Taux de réalisation des activités programmées et budgétisées",
+          "ae": "9 844 971",
+          "cp": "9 844 471"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 36",
+      "libelle_chapitre": "MINISTERE DES TRAVAUX PUBLICS",
+      "ae": "757 967 991",
+      "cp": "638 576 500",
+      "programmes": [
+        {
+          "n": "118",
+          "code": "125",
+          "libelle": "CONSTRUCTION DES ROUTES ET AUTRES INFRASTRUCTURES",
+          "objectif": "Développer et moderniser les infrastructures routières et de franchissement",
+          "indicateur": "Densité du réseau routier bitumé pour 1000 habitants",
+          "ae": "457 358 069",
+          "cp": "375 581 585"
+        },
+        {
+          "n": "119",
+          "code": "126",
+          "libelle": "REHABILITATION, MAINTENANCE ET ENTRETIEN DES ROUTES ET AUTRES INFRASTRUCTURES",
+          "objectif": "Restaurer et Améliorer le réseau bitumé et en terre",
+          "indicateur": "Linéaire du réseau bitumé réhabilité",
+          "ae": "237 949 426",
+          "cp": "200 334 419"
+        },
+        {
+          "n": "120",
+          "code": "127",
+          "libelle": "RÉALISATION DES ÉTUDES TECHNIQUES D'INFRASTRUCTURES",
+          "objectif": "Améliorer la qualité des études en vue d'optimiser le coût et la qualité des travaux d'infrastructures",
+          "indicateur": "% des études réalisées dans les délais et respectant l'itinéraire technique",
+          "ae": "2 912 284",
+          "cp": "2 912 284"
+        },
+        {
+          "n": "121",
+          "code": "128",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL",
+          "objectif": "Optimiser les prestations réalisées",
+          "indicateur": "Taux de réalisation des activités budgétaires",
+          "ae": "59 748 212",
+          "cp": "59 748 212"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 37",
+      "libelle_chapitre": "MINISTERE DES DOMAINES, DU CADASTRE ET DES AFFAIRES FONCIERES",
+      "ae": "25 168 000",
+      "cp": "25 168 000",
+      "programmes": [
+        {
+          "n": "122",
+          "code": "026",
+          "libelle": "MODERNISATION DU CADASTRE",
+          "objectif": "Disposer d'un cadastre national numérique apte à répondre aux défis de gouvernance foncière moderne",
+          "indicateur": "Proportion de communes disposant d'un plan cadastral numérique",
+          "ae": "1 567 500",
+          "cp": "1 567 500"
+        },
+        {
+          "n": "123",
+          "code": "061",
+          "libelle": "PROTECTION ET DEVELOPPEMENT DU PATRIMOINE DE L'ETAT",
+          "objectif": "Améliorer la gestion du Patrimoine de l'Etat",
+          "indicateur": "Proportion de bâtiments administratifs réhabilités.",
+          "ae": "12 591 987",
+          "cp": "12 591 987"
+        },
+        {
+          "n": "124",
+          "code": "066",
+          "libelle": "PROTECTION ET VALORISATION DES DOMAINES",
+          "objectif": "Améliorer la gestion domaniale",
+          "indicateur": "Proportion d'hectares de terrain sécurisés et incorporés dans le domaine privé de l'Etat",
+          "ae": "3 214 658",
+          "cp": "3 214 658"
+        },
+        {
+          "n": "125",
+          "code": "068",
+          "libelle": "OPTIMISATION DE LA GESTION DES AFFAIRES FONCIERES",
+          "objectif": "Améliorer la gestion des affaires foncières",
+          "indicateur": "Délais moyen d'obtention d'un titre foncier à la conservation foncière.",
+          "ae": "1 721 500",
+          "cp": "1 721 500"
+        },
+        {
+          "n": "126",
+          "code": "075",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU SOUS-SECTEUR DOMAINE, CADASTRE ET AFFAIRES FONCIERES",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des Programmes",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du MINDCAF",
+          "ae": "6 072 355",
+          "cp": "6 072 355"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 38",
+      "libelle_chapitre": "MINISTERE DE L'HABITAT ET DU DEVELOPPEMENT URBAIN",
+      "ae": "157 754 966",
+      "cp": "157 754 966",
+      "programmes": [
+        {
+          "n": "127",
+          "code": "108",
+          "libelle": "DEVELOPPEMENT DE L'HABITAT",
+          "objectif": "Améliorer l'accès à l'habitat décent",
+          "indicateur": "Proportion de ménages vivant dans un habitat décent",
+          "ae": "45 201 313",
+          "cp": "45 201 313"
+        },
+        {
+          "n": "128",
+          "code": "109",
+          "libelle": "AMÉLIORATION DE L'ENVIRONNEMENT SOCIAL URBAIN",
+          "objectif": "Doter le sous secteur urbain et les CTD d'outils ou instruments appropriés de gestion urbaine et promouvoir l'inclusion sociale en milieu urbain",
+          "indicateur": "Proportion de municipalités dont le pilotage s'appuie sur des outils appropriés de gouvernance urbaine",
+          "ae": "1 785 887",
+          "cp": "1 785 887"
+        },
+        {
+          "n": "129",
+          "code": "111",
+          "libelle": "DEVELOPPEMENT DES INFRASTRUCTURES DE TRANSPORT URBAIN ET DE MOBILITE DURABLE.",
+          "objectif": "Améliorer les conditions de mobilité dans les villes.",
+          "indicateur": "Linéaire de voirie réalisée",
+          "ae": "103 332 953",
+          "cp": "103 332 953"
+        },
+        {
+          "n": "130",
+          "code": "113",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU SOUS-SECTEUR URBAIN.",
+          "objectif": "Assurer la mise en œuvre optimale des programmes du MINHDU.",
+          "indicateur": "Taux de réalisation des activités budgétisées des programmes",
+          "ae": "7 434 813",
+          "cp": "7 434 813"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 39",
+      "libelle_chapitre": "MINISTERE DES PETITES ET MOYENNES ENTREPRISES, DE L'ECONOMIE SOCIALE ET DE L'ARTISANAT",
+      "ae": "16 488 740",
+      "cp": "16 488 740",
+      "programmes": [
+        {
+          "n": "131",
+          "code": "043",
+          "libelle": "PROMOTION DE L'ENTREPRENEURIAT",
+          "objectif": "Accroitre le nombre des Petites et Moyennes Entreprises, Unités de l'Economie et des artisans créés et viables.",
+          "indicateur": "1.Proportion des PME, unités et entreprises de l'économie sociale et artisans créées 2.Taux d'accroissement des PME, unités et entreprises de l'économie sociale et artisans accompagnées la création",
+          "ae": "3 796 089",
+          "cp": "3 796 089"
+        },
+        {
+          "n": "132",
+          "code": "044",
+          "libelle": "TRANSFORMATION ET MODERNISATION DES UNITES DE PRODUCTION",
+          "objectif": "Accroitre la production de Petites et Moyennes Entreprises, unités de l'Economie sociale et des artisans du secteur secondaire",
+          "indicateur": "1.Taux d'accroissement des PMEESA transformées et/ou modernisées 2.Proportion des PMEESA transformées et/ou modernisées",
+          "ae": "6 726 640",
+          "cp": "6 726 640"
+        },
+        {
+          "n": "133",
+          "code": "167",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU MINISTERE",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du Ministère",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du ministère",
+          "ae": "5 966 011",
+          "cp": "5 966 011"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 40",
+      "libelle_chapitre": "MINISTERE DE LA SANTE PUBLIQUE",
+      "ae": "292 597 772",
+      "cp": "297 199 000",
+      "programmes": [
+        {
+          "n": "134",
+          "code": "045",
+          "libelle": "PREVENTION DE LA MALADIE",
+          "objectif": "Porter la couverture vaccinale au RR1 de 74% à au moins 80%",
+          "indicateur": "1.Proportion de femmes enceintes infectées par le VIH et sous TARV 2.Couverture vaccinale au RR 1 3.Pourcentage de Moustiquaire Imprégnée d'insecticide à Longue Durée d'Action (MILDA) distribuées parmi celles planifiés",
+          "ae": "58 254 620",
+          "cp": "58 254 620"
+        },
+        {
+          "n": "135",
+          "code": "046",
+          "libelle": "PROMOTION DE LA SANTE ET NUTRITION",
+          "objectif": "Amener la population à adopter les comportements sains et favorables à la santé",
+          "indicateur": "1.Taux de malnutrition chronique chez les moins de 5 ans 2.Proportion des DS mettant en œuvre l'ATPC",
+          "ae": "5 412 790",
+          "cp": "5 412 790"
+        },
+        {
+          "n": "136",
+          "code": "047",
+          "libelle": "RENFORCEMENT DU SYSTEME DE SANTE",
+          "objectif": "Accroitre les capacités institutionnelles des structures sanitaires, à assurer un accès durable et équitable des populations aux soins et services de santé de qualité",
+          "indicateur": "1.Taux de personnes couvertes par un mécanisme de protection sociale en santé 2.Proportion des Districts disposant des structures sanitaires répondant aux besoins de la population en matière de santé.",
+          "ae": "125 504 857",
+          "cp": "130 106 085"
+        },
+        {
+          "n": "137",
+          "code": "048",
+          "libelle": "PRISE EN CHARGE DES CAS",
+          "objectif": "Faire passer le taux de mortalité en dessous de 70 pour 100 000 naissances",
+          "indicateur": "1.Taux de mortalité infantile 2.Taux de mortalité maternelle 3.Pourcentage des PVVIH mis sous traitement",
+          "ae": "51 531 852",
+          "cp": "51 531 852"
+        },
+        {
+          "n": "138",
+          "code": "049",
+          "libelle": "GOUVERNANCE ET PILOTAGE STRATEGIQUE DU SYSTEME DE SANTE",
+          "objectif": "Améliorer la coordination des services et assurer la bonne mise en œuvre des programmes au ministère",
+          "indicateur": "Taux de réalisation des activités budgétisées dans les programmes budgétaires",
+          "ae": "51 893 653",
+          "cp": "51 893 653"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 41",
+      "libelle_chapitre": "MINISTERE DU TRAVAIL ET DE LA SECURITE SOCIALE",
+      "ae": "7 900 000",
+      "cp": "7 900 000",
+      "programmes": [
+        {
+          "n": "139",
+          "code": "017",
+          "libelle": "PROMOTION DE LA SECURITE SOCIALE POUR TOUS",
+          "objectif": "Améliorer la couverture de sécurité sociale au Cameroun",
+          "indicateur": "Proportion de la population active occupée couverte pour au moins trois (03) risques",
+          "ae": "1 018 000",
+          "cp": "1 018 000"
+        },
+        {
+          "n": "140",
+          "code": "018",
+          "libelle": "PROMOTION DU TRAVAIL DECENT",
+          "objectif": "Améliorer le dispositif de santé et de sécurité en milieu de travail",
+          "indicateur": "Proportion des travailleurs par sexe dont les entreprises appliquent les principes de travail décent",
+          "ae": "3 113 787",
+          "cp": "3 113 787"
+        },
+        {
+          "n": "141",
+          "code": "159",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU SOUS SECTEUR TRAVAIL ET SECURITE SOCIALE",
+          "objectif": "Améliorer la Coordination des services et assurer la bonne mise en œuvre des programmes du Ministère du Travail et de la Sécurité",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du MINTSS",
+          "ae": "3 768 213",
+          "cp": "3 768 213"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 42",
+      "libelle_chapitre": "MINISTERE DES AFFAIRES SOCIALES",
+      "ae": "25 325 000",
+      "cp": "25 325 000",
+      "programmes": [
+        {
+          "n": "142",
+          "code": "070",
+          "libelle": "PROTECTION SOCIALE DE L'ENFANCE",
+          "objectif": "Assurer une offre de service inclusive et adéquate aux enfants ayant besoin de protection sociale",
+          "indicateur": "Pourcentage des enfants, filles et garçons, bénéficiant des prestations sociales de qualité",
+          "ae": "2 881 400",
+          "cp": "2 881 400"
+        },
+        {
+          "n": "143",
+          "code": "071",
+          "libelle": "PROTECTION SOCIALE DES GROUPES A VULNERABILITÉS SPECIFIQUES ET SOLIDARITÉ NATIONALE",
+          "objectif": "Accroitre l'offre des services de protection sociale aux groupes et communautés en fonction de leurs vulnérabilités spécifiques, en particulier dans les zones les plus défavorisées.",
+          "indicateur": "Taux d'accès des femmes et hommes socialement vulnérables aux services sociaux de base à l'initiative du MINAS",
+          "ae": "16 889 250",
+          "cp": "16 889 250"
+        },
+        {
+          "n": "144",
+          "code": "179",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DANS LE SOUS-SECTEUR DES AFFAIRES SOCIALES",
+          "objectif": "Assurer la mise en œuvre optimale des programmes du MINAS",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du MINAS",
+          "ae": "5 554 350",
+          "cp": "5 554 350"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 43",
+      "libelle_chapitre": "MINISTERE DE LA PROMOTION DE LA FEMME ET DE LA FAMILLE",
+      "ae": "10 782 000",
+      "cp": "10 782 000",
+      "programmes": [
+        {
+          "n": "145",
+          "code": "140",
+          "libelle": "AUTONOMISATION ECONOMIQUE DES FEMMES",
+          "objectif": "Renforcer le pouvoir économique des femmes",
+          "indicateur": "1.Proportion des femmes soutenues sur le plan économique par le MINPROFF 2.Taux d'activité des femmes",
+          "ae": "3 340 180",
+          "cp": "3 340 180"
+        },
+        {
+          "n": "146",
+          "code": "141",
+          "libelle": "PROMOTION DU STATUT SOCIAL DE LA FEMME ET DU GENRE",
+          "objectif": "Améliorer le statut et la situation de la femme",
+          "indicateur": "1.Nombre de femmes victimes de discriminations 2.Nombre de cas de Violences Basées sur le Genre recensés 3.Taux de représentativité des femmes aux postes de responsabilité",
+          "ae": "1 765 200",
+          "cp": "1 765 200"
+        },
+        {
+          "n": "147",
+          "code": "142",
+          "libelle": "DEVELOPPEMENT DE LA FAMILLE ET PROTECTION DES DROITS DE L'ENFANT",
+          "objectif": "Renforcer le rôle social de la famille et la protection des droits de l'enfant.",
+          "indicateur": "1.Nombre d'enfants enregistrés à l'état civil avec l'accompagnement du MINPROFF 2.Proportion des cas de violence réglés sur les cas signalés 3.Proportion de couples n'ayant pas divorcé sur les couples en instance de divorce",
+          "ae": "1 969 700",
+          "cp": "1 969 700"
+        },
+        {
+          "n": "148",
+          "code": "143",
+          "libelle": "APPUI INSTITUTIONNEL ET GOUVERNANCE",
+          "objectif": "Renforcer la gouvernance et les capacités institutionnelles",
+          "indicateur": "Taux de réalisation des activités budgétisées",
+          "ae": "3 706 920",
+          "cp": "3 706 920"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 45",
+      "libelle_chapitre": "MINISTERE DES POSTES ET TELECOMMUNICATIONS",
+      "ae": "18 611 000",
+      "cp": "18 611 000",
+      "programmes": [
+        {
+          "n": "149",
+          "code": "129",
+          "libelle": "DENSIFICATION DU RESEAU ET AMELIORATION DE LA COUVERTURE POSTALE NATIONALE",
+          "objectif": "Accroitre l'accès au réseau postal national.",
+          "indicateur": "Proportion des points de contacts postaux ayant une connexion internet.",
+          "ae": "1 388 063",
+          "cp": "1 388 063"
+        },
+        {
+          "n": "150",
+          "code": "130",
+          "libelle": "DEVELOPPEMENT DE L'ECOSYSTEME NATIONAL DU NUMERIQUE",
+          "objectif": "Accroitre l'accessibilité du numérique et promouvoir son usage.",
+          "indicateur": "Indice de Développement des TIC (IDI)",
+          "ae": "10 330 875",
+          "cp": "10 330 875"
+        },
+        {
+          "n": "151",
+          "code": "131",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU MINISTERE DES POSTES ET TELECOMMUNICATIONS",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du Ministère",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du ministère",
+          "ae": "5 855 018",
+          "cp": "5 855 018"
+        },
+        {
+          "n": "152",
+          "code": "132",
+          "libelle": "SECURISATION DE L'ECOSYSTEME NATIONAL DU NUMERIQUE",
+          "objectif": "Garantir la sécurité du cyberespace national",
+          "indicateur": "Indice national de cybersécurité",
+          "ae": "1 037 044",
+          "cp": "1 037 044"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 46",
+      "libelle_chapitre": "MINISTERE DES TRANSPORTS",
+      "ae": "57 056 000",
+      "cp": "57 056 000",
+      "programmes": [
+        {
+          "n": "153",
+          "code": "153",
+          "libelle": "DEVELOPPEMENT DES TRANSPORTS ROUTIERS, DE L'INTERMODALITE ET DE LA SECURITE ROUTIERE",
+          "objectif": "Améliorer l'offre et les services des transports routiers",
+          "indicateur": "Taux de réduction du nombre d'accident.",
+          "ae": "1 558 000",
+          "cp": "1 558 000"
+        },
+        {
+          "n": "154",
+          "code": "154",
+          "libelle": "DEVELOPPEMENT DU TRANSPORT AERIEN ET REGULATION DE L'AVIATION CIVILE",
+          "objectif": "Améliorer l'offre de service aérien, la sécurité et la sureté de l'aviation civile",
+          "indicateur": "Taux d'évolution du trafic fret",
+          "ae": "913 500",
+          "cp": "913 500"
+        },
+        {
+          "n": "155",
+          "code": "155",
+          "libelle": "DEVELOPPEMENT DU TRANSPORT MARITIME, FLUVIAL, LACUSTRE ET DES ACTIVITES PORTUAIRES",
+          "objectif": "Accroitre l'offre des services des transports maritimes, fluviaux, lacustres et des activités portuaires",
+          "indicateur": "Délais de passage portuaire",
+          "ae": "37 082 035",
+          "cp": "37 082 035"
+        },
+        {
+          "n": "156",
+          "code": "156",
+          "libelle": "DEVELOPPEMENT DU TRANSPORT FERROVIAIRE",
+          "objectif": "Améliorer l'offre et les services du transport ferroviaire.",
+          "indicateur": "Taux d'évolution du trafic fret",
+          "ae": "11 400 500",
+          "cp": "11 400 500"
+        },
+        {
+          "n": "157",
+          "code": "157",
+          "libelle": "DEVELOPPEMENT ET MODERNISATION DES SYSTEMES DE COLLECTE, DE PRODUCTION ET DE VULGARISATION DES INFORMATIONS METEOROLOGIQUES",
+          "objectif": "Améliorer la production et la vulgarisation des informations météorologiques",
+          "indicateur": "Taux de production des bulletins météorologiques",
+          "ae": "1 100 195",
+          "cp": "1 100 195"
+        },
+        {
+          "n": "158",
+          "code": "158",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL AU SOUS-SECTEUR DES TRANSPORTS",
+          "objectif": "Assurer la bonne mise en œuvre des programmes du MINT",
+          "indicateur": "Taux d'exécution du plan d'action du MINT",
+          "ae": "5 001 770",
+          "cp": "5 001 770"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 48",
+      "libelle_chapitre": "COMITE NATIONAL DE DESARMEMENT, DE DEMOBILISATION ET DE REINTEGRATION",
+      "ae": "4 412 000",
+      "cp": "4 412 000",
+      "programmes": [
+        {
+          "n": "159",
+          "code": "082",
+          "libelle": "DESARMEMENT DES COMBATTANTS ET DEMOBILISATION",
+          "objectif": "Accroitre la reddition des combattants du Boko-Haram et des groupes armés des régions du Nord-Ouest et du Sud-Ouest",
+          "indicateur": "Nombre de combattants ayant déposé volontairement les armes intégrés chaque année dans les centres régionaux",
+          "ae": "814 000",
+          "cp": "814 000"
+        },
+        {
+          "n": "160",
+          "code": "083",
+          "libelle": "REINTEGRATION DES EX-COMBATTANTS",
+          "objectif": "Améliorer la conversion holistique (sociale, économique, culturelle, religieuse, etc.) et la réinsertion des ex-combattants",
+          "indicateur": "Nombre d'ex-combattants autonomisés",
+          "ae": "813 000",
+          "cp": "813 000"
+        },
+        {
+          "n": "161",
+          "code": "180",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU CNDDR",
+          "objectif": "Améliorer le fonctionnement et la performance des services",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du CNDDR",
+          "ae": "2 785 000",
+          "cp": "2 785 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 49",
+      "libelle_chapitre": "CONSEIL CONSTITUTIONNEL",
+      "ae": "4 144 000",
+      "cp": "4 144 000",
+      "programmes": [
+        {
+          "n": "162",
+          "code": "074",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DU CONSEIL CONSTITUTIONNEL",
+          "objectif": "Assurer l'opérationnalisation et la coordination des services du Conseil Constitutionnel",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du CCC",
+          "ae": "4 144 000",
+          "cp": "4 144 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 50",
+      "libelle_chapitre": "MINISTERE DE LA FONCTION PUBLIQUE ET DE LA REFORME ADMINISTRATIVE",
+      "ae": "17 152 450",
+      "cp": "18 715 000",
+      "programmes": [
+        {
+          "n": "163",
+          "code": "040",
+          "libelle": "AMELIORATION DE LA GESTION DES RESSOURCES HUMAINES DE L'ETAT",
+          "objectif": "Optimiser la gestion des ressources humaines de l'Etat",
+          "indicateur": "1.Pourcentage d'utilisation des outils de gestion des ressources humaines de l'Etat (SIGIPES, fiches de poste, plan de recrutement, plan de formation, fichier assaini, texte organique, cadre organique, référentiel des compétences, cartographie des postes de travail) 2.Proportion des personnels de l'Etat dont la carrière est à jour",
+          "ae": "3 689 568",
+          "cp": "5 467 803"
+        },
+        {
+          "n": "164",
+          "code": "041",
+          "libelle": "MODERNISATION DES SERVICES PUBLICS",
+          "objectif": "Contribuer à accroitre la performance des services publics",
+          "indicateur": "Proportion d'Administrations dotées et utilisant les outils et projets de réformes",
+          "ae": "4 094 405",
+          "cp": "4 094 405"
+        },
+        {
+          "n": "165",
+          "code": "042",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL AU MINFOPRA",
+          "objectif": "Assurer la mise en œuvre optimale des programmes du MINFOPRA",
+          "indicateur": "Taux de réalisation des activités budgétisées au MINFOPRA",
+          "ae": "9 368 477",
+          "cp": "9 152 792"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 51",
+      "libelle_chapitre": "ELECTIONS CAMEROON",
+      "ae": "13 216 800",
+      "cp": "12 583 000",
+      "programmes": [
+        {
+          "n": "166",
+          "code": "081",
+          "libelle": "ORGANISATION, GESTION ET SUPERVISION DU SYSTÈME ÉLECTORAL ET RÉFERENDAIRE AU CAMEROUN",
+          "objectif": "Renforcer la crédibilité des scrutins et le consensus entre les acteurs du processus électoral",
+          "indicateur": "1.Taux de participation aux scrutins 2.Taux de contestation du processus électoral (pré et post électoral)",
+          "ae": "4 162 000",
+          "cp": "4 162 000"
+        },
+        {
+          "n": "167",
+          "code": "183",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DE ELECAM",
+          "objectif": "Assurer la mise en œuvre optimale des programmes opérationnels",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein de Elections Cameroon",
+          "ae": "9 054 800",
+          "cp": "8 421 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 52",
+      "libelle_chapitre": "COMMISSION DES DROITS DE L'HOMME DU CAMEROUN",
+      "ae": "4 796 000",
+      "cp": "4 796 000",
+      "programmes": [
+        {
+          "n": "168",
+          "code": "084",
+          "libelle": "PROMOTION DES DROITS DE L'HOMME",
+          "objectif": "Renforcer la culture des Droits de l'homme au Cameroun et réduire les violations",
+          "indicateur": "Nombre de sollicitations adressées à la CDHC",
+          "ae": "419 400",
+          "cp": "419 400"
+        },
+        {
+          "n": "169",
+          "code": "085",
+          "libelle": "PROTECTION DES DROITS DE L'HOMME",
+          "objectif": "Lutter contre l'impunité et favoriser l'accès des victimes à une réparation",
+          "indicateur": "Nombre d'allégations de violation des Droits de l'homme adressées à la CDHC et proportion de celles qui ont effectivement été traitées (élucidées ou classées)",
+          "ae": "437 200",
+          "cp": "437 200"
+        },
+        {
+          "n": "170",
+          "code": "086",
+          "libelle": "PRÉVENTION DE LA TORTURE",
+          "objectif": "éradiquer le recours à la torture et autres peines ou traitements cruels, inhumains et dégradants dans les lieux de privation de liberté au Cameroun",
+          "indicateur": "Nombre de visites effectuées dans les lieux de privation de liberté par le Mécanisme National de Prévention de la torture",
+          "ae": "478 700",
+          "cp": "478 700"
+        },
+        {
+          "n": "171",
+          "code": "190",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL",
+          "objectif": "Assurer la mise en œuvre optimale des programmes",
+          "indicateur": "Taux de réalisation des activités budgétisées",
+          "ae": "3 460 700",
+          "cp": "3 460 700"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 53",
+      "libelle_chapitre": "SENAT",
+      "ae": "16 162 000",
+      "cp": "16 162 000",
+      "programmes": [
+        {
+          "n": "172",
+          "code": "178",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DES SERVICES DU SENAT",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes du SENAT",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein du SENAT",
+          "ae": "16 162 000",
+          "cp": "16 162 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 54",
+      "libelle_chapitre": "COMMISSION NATIONALE POUR LA PROMOTION DU BILINGUISME ET DU MULTICULTURALISME",
+      "ae": "3 498 000",
+      "cp": "3 498 000",
+      "programmes": [
+        {
+          "n": "173",
+          "code": "181",
+          "libelle": "GOUVERNANCE ET APPUI INSTITUTIONNEL DE LA CNPBM",
+          "objectif": "Assurer la mise en œuvre optimale des Programmes de la CNPBM",
+          "indicateur": "Taux de réalisation des activités budgétisées au sein de la CNPBM",
+          "ae": "3 498 000",
+          "cp": "3 498 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 55",
+      "libelle_chapitre": "PENSIONS",
+      "ae": "270 369 000",
+      "cp": "270 369 000",
+      "programmes": [
+        {
+          "n": "174",
+          "code": "200",
+          "libelle": "PENSIONS",
+          "objectif": "Assurer le paiement des allocations de retraite",
+          "indicateur": "Taux de paiement",
+          "ae": "270 369 000",
+          "cp": "270 369 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 56",
+      "libelle_chapitre": "DETTE PUBLIQUE EXTERIEURE",
+      "ae": "941 000 000",
+      "cp": "941 000 000",
+      "programmes": [
+        {
+          "n": "175",
+          "code": "199",
+          "libelle": "REMBOURSEMENT DE LA DETTE PUBLIQUE EXTERIEURE",
+          "objectif": "Honorer les engagements de l'Etat vis-à-vis des bailleurs",
+          "indicateur": "Taux de paiement",
+          "ae": "941 000 000",
+          "cp": "941 000 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 57",
+      "libelle_chapitre": "DETTE PUBLIQUE INTERIEURE",
+      "ae": "1 124 500 000",
+      "cp": "1 124 500 000",
+      "programmes": [
+        {
+          "n": "176",
+          "code": "203",
+          "libelle": "REMBOURSEMENT DE LA DETTE PUBLIQUE INTERIEURE",
+          "objectif": "Honorer les engagements de l'Etat vis-à-vis des résidents",
+          "indicateur": "Taux de paiement",
+          "ae": "1 124 500 000",
+          "cp": "1 124 500 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 60",
+      "libelle_chapitre": "SUBVENTIONS ET CONTRIBUTIONS",
+      "ae": "175 705 000",
+      "cp": "175 705 000",
+      "programmes": [
+        {
+          "n": "177",
+          "code": "202",
+          "libelle": "SUBVENTIONS ET CONTRIBUTIONS",
+          "objectif": "Contribuer au bon fonctionnement des organismes et établissements publics",
+          "indicateur": "Taux de réalisation des contributions attendu",
+          "ae": "175 705 000",
+          "cp": "175 705 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 65",
+      "libelle_chapitre": "DEPENSES COMMUNES",
+      "ae": "218 682 000",
+      "cp": "218 682 000",
+      "programmes": [
+        {
+          "n": "178",
+          "code": "201",
+          "libelle": "DEPENSES COMMUNES DE FONCTIONNEMENT",
+          "objectif": "Couvrir les charges non réparties de l'Etat en fonctionnement",
+          "indicateur": "Taux de couverture des charges non réparties en fonctionnement",
+          "ae": "218 682 000",
+          "cp": "218 682 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 92",
+      "libelle_chapitre": "PARTICIPATIONS",
+      "ae": "10 000 000",
+      "cp": "10 000 000",
+      "programmes": [
+        {
+          "n": "179",
+          "code": "198",
+          "libelle": "PARTICIPATION DE L'ETAT DANS LES ENTREPRISES PARAPUBLIQUES ET PRIVEES",
+          "objectif": "Couvrir les prises de participation de l'Etat",
+          "indicateur": "Taux de couverture des participations attendues de l'Etat",
+          "ae": "10 000 000",
+          "cp": "10 000 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 93",
+      "libelle_chapitre": "REHABILITATION/RESTRUCTURATION",
+      "ae": "5 000 000",
+      "cp": "5 000 000",
+      "programmes": [
+        {
+          "n": "180",
+          "code": "196",
+          "libelle": "REHABILITATION ET RESTRUCTURATION DES ENTREPRISES PUBIQUES",
+          "objectif": "Assurer la réhabilitation et la restructuration des sociétés de l'Etat",
+          "indicateur": "Proportion d'entreprises restructurées ou réhabilitées",
+          "ae": "5 000 000",
+          "cp": "5 000 000"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 94",
+      "libelle_chapitre": "INTERVENTIONS EN INVESTISSEMENTS",
+      "ae": "100 042 084",
+      "cp": "100 042 084",
+      "programmes": [
+        {
+          "n": "181",
+          "code": "195",
+          "libelle": "INTERVENTIONS EN INVESTISSEMENT",
+          "objectif": "Couvrir les charges non réparties de l'Etat en fonctionnement",
+          "indicateur": "Taux de couverture des charges non réparties en fonctionnement",
+          "ae": "100 042 084",
+          "cp": "100 042 084"
+        }
+      ]
+    },
+    {
+      "chapitre": "CHAPITRE 95",
+      "libelle_chapitre": "REPORT",
+      "ae": "7 000 000",
+      "cp": "7 000 000",
+      "programmes": [
+        {
+          "n": "182",
+          "code": "197",
+          "libelle": "PRISE EN CHARGE DES REPORTS DE CREDITS",
+          "objectif": "Poursuivre la réalisation des projets dont l'exécution budgétaire est inachevée en 2024",
+          "indicateur": "Taux de consommation des crédits de report",
+          "ae": "7 000 000",
+          "cp": "7 000 000"
+        }
+      ]
+    }
+  ],
+  "total_2025": {
+    "ae": "7 380 409 735",
+    "cp": "7 250 800 000"
+  }
+}
