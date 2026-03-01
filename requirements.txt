@@ -1,27 +1,35 @@
-# Extraction PDF
-pdfplumber==0.11.0
-#PyMuPDF==1.24.0
+# ─────────────────────────────────────────────
+# NLP · Lois de Finances du Cameroun
+# Requirements — toutes phases confondues
+# ─────────────────────────────────────────────
 
-# NLP & Transformers
-# transformers==4.40.0
-# sentence-transformers==2.7.0
-# torch==2.6.0
-# spacy
+# ── Extraction PDF & OCR ──────────────────────
+pdfplumber
+camelot-py[cv]
+pytesseract
+Pillow
+opencv-python
 
-# Traitement données
-# pandas
-# numpy
-# scikit-learn
+# ── NLP & Embeddings ─────────────────────────
+torch
+transformers
+sentence-transformers
 
-# Clustering
-#hdbscan==0.8.33
+# ── Réduction dimensionnelle & Clustering ────
+umap-learn
+hdbscan
+scikit-learn
 
-# Visualisation & Dashboard
-# streamlit
-# matplotlib
-# seaborn
-# plotly
+# ── Statistiques & Calcul numérique ──────────
+numpy
+scipy
 
-# Utilitaires
-# tqdm
-# python-dotenv==1.0.1
+# ── Visualisation & Dashboard ────────────────
+streamlit
+plotly
+
+# ── Utilitaires ──────────────────────────────
+pandas
+regex
+pathlib2
+tqdm

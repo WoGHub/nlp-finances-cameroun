@@ -1,13 +1,3 @@
-"""
-dashboard_v2.py  (version 3 — corrigée)
-========================================
-Phase 5 — Dashboard Streamlit
-- Dark / Light mode
-- Police Helvetica
-- UMAP superposé dans l'audit sémantique
-- Bouton « 💡 Interprétation » sous chaque graphique
-- Correction du conflit update_layout yaxis
-"""
 
 import json
 import numpy as np
@@ -22,8 +12,8 @@ import re
 # ─────────────────────────────────────────────────────────────────
 
 st.set_page_config(
-    page_title="NLP · Finances Cameroun",
-    page_icon="🇨🇲",
+    page_title="CM-BUDGET TRACK",
+    
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -996,26 +986,26 @@ elif section == "À PROPOS":
     # Remplis les infos ici. Pour les images, mets-les dans src/dashboard/assets/
     MEMBRES = [
         {
-            "nom": "Membre 1",
-            "role": "Chef de Projet & Data Scientist",
+            "nom": "DOMEVENOU Wisdom",
+            "role": "Data Scientist Full Stack",
             "photo": "membre1.png", # Nom du fichier dans le dossier assets
-            "linkedin": "https://www.linkedin.com/in/ton-profil-1/"
+            "linkedin": "https://www.linkedin.com/in/komla-wisdom-domevenou/"
         },
         {
-            "nom": "Membre 2",
-            "role": "NLP Engineer",
-            "photo": "membre2.png",
-            "linkedin": "https://www.linkedin.com/in/ton-profil-2/"
+            "nom": "MOUSSAVOU MOUSSAVOU Lloyd",
+            "role": "Data Engineer",
+            "photo": "membre2.jpeg",
+            "linkedin": "https://www.linkedin.com/in/aaron-moussavou-451ab9343/"
         },
         {
-            "nom": "Membre 3",
+            "nom": "ALATSA Giovanni",
             "role": "Data Analyst",
-            "photo": "membre3.png",
-            "linkedin": "https://www.linkedin.com/in/ton-profil-3/"
+            "photo": "membre3.jpeg",
+            "linkedin": "https://www.linkedin.com/in/geovanel-dongho-alatsa-1b64281b1/"
         },
         {
-            "nom": "Membre 4",
-            "role": "Expert Finances Publiques",
+            "nom": "OGNIMBA Sadri",
+            "role": "Data analyst",
             "photo": "membre4.png",
             "linkedin": "https://www.linkedin.com/in/ton-profil-4/"
         },
@@ -1048,7 +1038,7 @@ elif section == "À PROPOS":
             # 2. INFOS DU MEMBRE
             st.markdown(f"""
             <div style='text-align:center; margin-top:5px;'>
-                <div style='font-weight:bold; font-size:1.1rem; color:{T["text"]}'>
+                <div style='font-weight:bold; font-size:1rem; color:{T["text"]}'>
                     {membre["nom"]}
                 </div>
                 <div style='font-size:0.85rem; color:{T["accent"]}; margin-bottom:10px;'>
