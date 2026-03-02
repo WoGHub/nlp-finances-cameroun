@@ -428,7 +428,7 @@ def calculer_umap(modele):
 
 if section == "VUE D'ENSEMBLE":
     st.markdown(
-        f"<h1>Analyse NLP des Lois de Finances du Cameroun</h1>"
+        f"<h1>Analyse des Lois de Finances du Cameroun</h1>"
         f"<p style='color:{T['subtext']}'>Audit sémantique · Classification SND30 · "
         f"Conformité budgétaire</p>", unsafe_allow_html=True)
 
@@ -460,7 +460,7 @@ if section == "VUE D'ENSEMBLE":
     with tab1:
         st.markdown("""
         <div style='padding: 1rem 0;'>
-            <p><i>(Texte à remplacer)</i></p>
+            <p><p>
             <p>Cette étude s'inscrit dans le cadre de l'analyse des politiques publiques du Cameroun, en se focalisant sur la transition budgétaire entre les exercices 2023-2024 et 2024-2025. L'objectif principal est d'évaluer, grâce aux techniques avancées de Traitement du Langage Naturel (NLP), la cohérence entre le discours législatif porté par les Lois de Finances et les allocations réelles des crédits budgétaires.</p>
             <p>Dans un contexte économique marqué par des contraintes fortes (service de la dette, chocs externes), le gouvernement s'appuie sur la Stratégie Nationale de Développement (SND30) pour guider son action. Il était donc crucial de mesurer mathématiquement si les priorités énoncées dans le texte de loi se traduisent effectivement par des engagements financiers équivalents, ou si le poids des dépenses incompressibles crée une distorsion entre la vision stratégique et la réalité budgétaire.</p>
         </div>
@@ -470,7 +470,7 @@ if section == "VUE D'ENSEMBLE":
     with tab2:
         st.markdown("""
         <div style='padding: 1rem 0;'>
-            <p><i>(Texte à remplacer)</i></p>
+            <p><p>
             <p>L'audit sémantique réalisé via les modèles CamemBERT et MiniLM révèle une stabilité globale du corpus législatif, avec néanmoins des modifications ciblées signalant de nouvelles priorités ou ajustements fiscaux.</p>
             <p>Sur le plan de la classification SND30, l'analyse montre que le pilier <b>"Gouvernance"</b> absorbe plus de la moitié du budget global (56%), massivement tiré par les obligations de la dette publique. Cependant, en isolant le budget discrétionnaire (hors incompressibles), la <b>"Transformation Structurelle"</b> reprend sa place de premier pilier d'investissement (environ 31%).</p>
             <p>Le test de corrélation de Spearman confirme un lien statistique significatif (p < 0.05) entre la fréquence d'apparition thématique d'un pilier et le volume de crédits qui lui est alloué. Toutefois, le pilier <b>"Développement Régional"</b> souffre d'un sous-financement chronique.</p>
@@ -481,7 +481,7 @@ if section == "VUE D'ENSEMBLE":
     with tab3:
         st.markdown("""
         <div style='padding: 1rem 0;'>
-            <p><i>(Texte à remplacer)</i></p>
+           <p><p>
             <p>Au vu de ces résultats, plusieurs leviers d'action peuvent être envisagés pour optimiser la formulation et l'exécution des prochaines Lois de Finances :</p>
             <ul>
                 <li style='margin-bottom: 0.5rem;'><b>Rééquilibrage du Développement Régional :</b> Il est recommandé de consolider les multiples petits programmes régionaux en projets structurants mieux financés, afin de réduire l'écart entre l'ambition décentralisatrice et la réalité des crédits alloués.</li>
@@ -976,17 +976,17 @@ elif section == "CONFORMITÉ":
 
 elif section == "À PROPOS":
     st.markdown(
-        f"<h1>L'Équipe du Projet</h1>"
-        f"<p style='color:{T['subtext']}'>Conception, Développement et Analyse</p>", 
+        f"<h1>L'Équipe du Projet</h1>",
+         
         unsafe_allow_html=True
     )
     st.divider()
 
     # --- CONFIGURATION DES MEMBRES ---
-    # Remplis les infos ici. Pour les images, mets-les dans src/dashboard/assets/
+    
     MEMBRES = [
         {
-            "nom": "DOMEVENOU Wisdom",
+            "nom": "DOMEVENOU Komla Wisdom",
             "role": "Data Scientist Full Stack",
             "photo": "membre1.png", # Nom du fichier dans le dossier assets
             "linkedin": "https://www.linkedin.com/in/komla-wisdom-domevenou/"
@@ -998,7 +998,7 @@ elif section == "À PROPOS":
             "linkedin": "https://www.linkedin.com/in/aaron-moussavou-451ab9343/"
         },
         {
-            "nom": "ALATSA Giovanni",
+            "nom": "ALATSA DONGHO Geovanel",
             "role": "Data Analyst",
             "photo": "membre3.jpeg",
             "linkedin": "https://www.linkedin.com/in/geovanel-dongho-alatsa-1b64281b1/"
@@ -1006,8 +1006,8 @@ elif section == "À PROPOS":
         {
             "nom": "OGNIMBA Sadri",
             "role": "Data analyst",
-            "photo": "membre4.png",
-            "linkedin": "https://www.linkedin.com/in/ton-profil-4/"
+            "photo": "membre4.jpeg",
+            "linkedin": "https://www.linkedin.com/in/sadri-ognimba-3244a9253/"
         },
     ]
 
@@ -1054,8 +1054,8 @@ elif section == "À PROPOS":
     
     # Petit pied de page sympa
     st.markdown(
-        f"<div style='text-align:center;color:{T['subtext']};font-size:0.8rem;margin-top:2rem'>"
-        f"Projet réalisé dans le cadre du cycle ISE3 à l'ISSEA Yaoundé<br>"
-        f"© 2025 · NLP Finances Cameroun"
+        f"<div style='text-align:center;color:{T['subtext']};font-size:0.8rem;margin-top:1.2rem'>"
+        f"Projet réalisé dans le cadre du cours de NLP, ISE3 2026 à l'ISSEA <br>"
+        f"© 2026 · Budget Tracker"
         f"</div>", unsafe_allow_html=True)
     
